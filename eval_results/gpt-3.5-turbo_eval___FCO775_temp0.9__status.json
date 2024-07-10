@@ -1,0 +1,1316 @@
+{
+    "model": "",
+    "final_score": 0.6021505376344086,
+    "source_QA": [
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing ligand binding patterns on Gold Nano-Bipyramids (AuNBPs) with low ligand coverage, what was the predominant observation regarding the ligand binding behavior?\n\nGiven options:\nA. Ligands bind predominantly to sharp tips due to high surface energy, leading to growth redirection.\nB. Ligands bind indiscriminately across the entire surface due to uniform surface energy, leading to isotropic growth.\nC. Ligands fail to bind to the bipyramids as the surface energy is too low to facilitate attachment, resulting in no growth change.\nD. Ligands bind preferentially to the base of the bipyramids due to low surface energy, resulting in elongated growth.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment analyzing growth under full ligand coverage with AuNBPs (Gold Nanobipyramids) that are fully covered by ligands, where is the growth predominantly observed and why?\n\nGiven options:\nA. Growth predominantly occurs at the tips due to larger ligand gaps.\nB. Growth predominantly occurs at the base due to larger ligand gaps.\nC. Growth predominantly occurs at the tips due to smaller ligand gaps.\nD. Growth predominantly occurs uniformly across the surface due to even ligand distribution.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of gold nanoprisms (AuNBPs), a specific condition was set where no initial ligand concentration was present, and an AMBI ligand concentration of 2.0 \u03bcM was introduced. The system was subjected to a pretreatment and then observed at a temperature of 60\u00b0C for a duration of 2 hours. Based on these conditions, which of the following observations would be consistent with the outcome of the experiment?\n\nGiven options:\nA. The AuNBPs showed increased etching at the tips, resulting in non-uniform over-coating with significant deposition on the tips.\nB. The AuNBPs exhibited no change in their structure or coating, remaining identical to their state prior to the introduction of the AMBI ligand.\nC. The AuNBPs demonstrated reduced etching at the tips, leading to uniform over-coating with minimal deposition on the tips.\nD. The AuNBPs underwent complete dissolution due to the high temperature and presence of the AMBI ligand.\n",
+            "answer": "C",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth patterns of gold nanoparticle branches (AuNBPs), the initial conditions involved using AMBI at a concentration of 2.0 \u03bcM. The conditions were then adjusted to a concentration of 4.0 \u03bcM of AMBI. Based on these conditions, which of the following observations would be consistent with the outcome of the experiment?\n\nGiven options:\nA. Increased growth at middle segments but with nonuniform coating.\nB. Decreased growth at middle segments with a uniform coating.\nC. No change in growth patterns observed at any segment.\nD. Uniform coating with reduced overall size of AuNBPs.\n",
+            "answer": "A",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving AuNBPs with an initial ligand concentration of AMBI at 4.0 \u03bcM, the ligand concentration was dramatically increased to 120 \u03bcM to study nonwetting growth conditions. What observation was most likely reported in this scenario?\n\nGiven options:\nA. Formation of spherical islands mostly at high-curvature axial tips (90%) and some at equatorial corners (10%).\nB. Formation of spherical islands mostly at low-curvature axial tips (90%) and some at equatorial corners (10%).\nC. Uniform distribution of spherical islands across the entire surface of the AuNBPs.\nD. Formation of elongated islands primarily at the base of the AuNBPs with negligible occurrences at the tips or corners.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment analyzing the growth of AuNBPs under very high ligand concentration, the initial ligand concentration of AMBI was set at 120 \u03bcM. The ligand concentration was then increased to 280 \u03bcM. What observation was made regarding the formation of islands in this adjusted condition?\n\nGiven options:\nA. Island formation shifted, with the majority (90%) occurring at equatorial corners and fewer (10%) at axial tips.\nB. Island formation was evenly distributed between axial tips and equatorial corners.\nC. Island formation was predominantly at the axial tips, with over 90% occurring there and the remainder at equatorial corners.\nD. No significant change in island formation was observed; the distribution remained the same as before the ligand concentration was adjusted.\n",
+            "answer": "A",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving AuNBPs with an initial ligand concentration of AMBI at 280 \u03bcM, the ligand concentration was adjusted to 300 \u03bcM. The purpose of the experiment was to observe nucleation patterns. Which of the following observations would be consistent with the conditions described?\n\nGiven options:\nA. Formation of a single large Au nanoparticle dominating the system.\nB. No change in nucleation patterns despite the increased ligand concentration.\nC. Formation of island growth on AuNBPs and absence of free Au nanoparticles.\nD. Absence of island growth on AuNBPs; instead, homogeneous nucleation of free Au nanoparticles.\n",
+            "answer": "D",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the effects of variable concentrations on the system AuNBPs with the ligand AMBI, what was the observation when the concentration range was intermediate, between low and high extremes?\n\nGiven options:\nA. Complete inhibition of nanostructure formation.\nB. Formation of a highly selective single nanostructure type.\nC. Formation of a mixture of nanostructures, indicating less selective growth.\nD. No observable change in the nanostructure formation process.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the Curvature-selective nucleation in triangular gold nanoprisms, where the curvature at corners, edges, and faces was varied to observe differences in ligand distances, what was the observed effect of higher curvature at the corners on the growth process?\n\nGiven options:\nA. Higher curvature at corners had no significant effect on solute access, resulting in uniform growth across corners, edges, and faces.\nB. Higher curvature at corners facilitated solute access, leading to selective growth at edges and faces over corners.\nC. Higher curvature at corners restricted solute access, leading to selective growth at edges and faces over corners.\nD. Higher curvature at corners facilitated solute access, leading to selective growth at corners over edges and faces.\n",
+            "answer": "D",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating site-specific gold deposition, octahedral and concave rhombic dodecahedral gold seeds were used as the system. The method involved tuning ascorbic acid concentration, and the variable adjustments included adjusting the chemical potential (\u2206\u03bc) relative to nucleation energy. Which observation would be expected from these specific conditions?\n\nGiven options:\nA. No gold deposition due to the absence of ascorbic acid.\nB. Selective gold deposition on corners or edges achieved by adjusting chemical potential.\nC. Uniform gold deposition across the entire surface of the seeds.\nD. Formation of an amorphous gold layer due to uncontrolled nucleation.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the facet-selective nucleation in gold nanorods with alternating {100} and {110} facets, researchers adjusted the chemical potential-energy relationship to exploit differences in surface energy of the facets. What observation would you expect if the selective growth occurred on the higher energy facets at a given chemical potential?\n\nGiven options:\nA. Selective growth on higher energy facets ({110} over {100}) at given chemical potential.\nB. Uniform growth on both {100} and {110} facets regardless of chemical potential.\nC. No growth on either {100} or {110} facets despite adjustments in chemical potential.\nD. Selective growth on lower energy facets ({100} over {110}) at given chemical potential.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on investigating the facet exposure control of Gold nanocubes and octahedra, researchers modified the CTAB concentration to achieve control over exposed facets during growth. What was the observed correlation between the chemical potential and the exposed facets of the gold nanostructures?\n\nGiven options:\nA. Variation in exposed facets was inversely related to the chemical potential, with lower potential exposing higher energy facets.\nB. Variation in exposed facets was observed to decrease with an increase in chemical potential, leading to a uniform facet exposure at higher potentials.\nC. Variation in exposed facets was directly correlated with the chemical potential, with higher potential exposing higher energy facets.\nD. Variation in exposed facets was independent of the chemical potential, with random facets being exposed regardless of potential.\n",
+            "answer": "C",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the multicomponent nanocrystal (NC) growth, a system was set up for the corner- or edge-selective growth of silver (Ag) or palladium (Pd) onto gold (Au) NC seeds. The method aimed to achieve controlled growth of different metals on specific Au NC sites. Based on the conditions provided, which observation would be expected from this experiment?\n\nGiven options:\nA. Complete lack of Ag or Pd attachment to the gold NCs, suggesting an ineffective growth method.\nB. Uniform coating of Ag or Pd over the entire surface of the gold NCs, showing non-discriminative growth.\nC. Ag or Pd selectively grown on specific sites of gold NCs, demonstrating controlled, site-specific growth.\nD. Ag or Pd randomly distributed across the surface of gold NCs, indicating non-selective growth.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of heterogeneous metallic nanocrystals (HMNCs) using galvanic replacement reaction and underpotential deposition (UPD), gold nanocrystals (Au NCs) were used as the substrate for bimetallic satellite nanocrystals (AgPd NCs). The method focused on manipulating spatial arrangement and electron distribution to achieve selective deposition. What was the observed outcome when the spatial arrangement of AgPd NCs relative to Au NCs was varied?\n\nGiven options:\nA. AgPd NCs formed a uniform coating over the entire surface of Au NCs, resulting in fully encapsulated HMNCs.\nB. AgPd NCs were randomly distributed on the surface of Au NCs without any preference for specific sites.\nC. AgPd NCs selectively deposited on specific sites (corners or edges) of Au NCs, forming corner- or edge-satellite HMNCs.\nD. AgPd NCs did not adhere to the Au NCs, resulting in no formation of HMNCs.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the shape tuning of central nanocrystals (NCs) within heterometallic nanocrystals (HMNCs), researchers adjusted the geometry of central gold (Au) NCs and electron generation kinetics to create HMNCs with various polyhedral shapes of central NCs. What was the observed outcome when modifying the polyhedral shape of central Au NCs and their reaction with silver-palladium (AgPd) NCs under these conditions?\n\nGiven options:\nA. The creation of HMNCs with a fixed architecture, resulting in the loss of the geometric shape of central Au NCs after satellite NC deposition.\nB. The creation of HMNCs with different architectures by preserving the geometric shape of central Au NCs during satellite NC deposition.\nC. The creation of HMNCs with similar architectures by altering the geometric shape of central Au NCs independently of satellite NC deposition.\nD. The creation of HMNCs with uniform architectures, disregarding the geometric shape of central Au NCs during satellite NC deposition.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving HMNCs with tailored shapes of satellite NCs, researchers aimed to modify the shape of satellite NCs without altering their deposition sites on central NCs. They achieved this by modifying reaction conditions to alter NC surface strain and reaction kinetics. What was the observed outcome of this shape tuning of satellite NCs?\n\nGiven options:\nA. Satellite NCs developed distinct morphologies, such as being bound by {100} or {111} facets, while maintaining their specific deposition sites.\nB. The central NCs changed their shapes instead of the satellite NCs, resulting in a loss of control over the satellite NC morphology.\nC. Satellite NCs lost their ability to maintain specific deposition sites on central NCs due to changes in the reaction conditions.\nD. The shape of satellite NCs remained unchanged despite the modifications in reaction conditions, indicating an unsuccessful experiment.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on HMNCs with size variations, researchers aimed to achieve separate control over the size of central and satellite nanocrystals (NCs) by varying concentration ratios of metal precursors. What observation would indicate that the experiment was successful?\n\nGiven options:\nA. The concentration ratios of metal precursors were varied, but no significant change in the size of HMNCs was observed.\nB. HMNCs with varied sizes were achieved, demonstrating separate control over the size of central and satellite NCs.\nC. The sizes of central and satellite NCs could not be independently altered, leading to a consistent size for all NCs in the system.\nD. The sizes of central and satellite NCs were altered simultaneously, resulting in HMNCs with uniform size distributions.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the synthesis of multi-component heterostructured nanocrystals (HMNCs), specifically a system combining Au, Pd, and AgPd, which observation would be expected if the method involved combining various metallic systems using galvanic replacement reaction and underpotential deposition (UPD), with the goal of integrating different metallic nanocrystals (NCs) to create HMNCs with complex architectures?\n\nGiven options:\nA. Fabricated HMNCs with diverse architectures, combining different NCs in various configurations, were observed as a result of the synthesis process.\nB. The experiment resulted in the formation of single-component NCs, contrary to the intended multi-component system synthesis.\nC. Observation of HMNCs with reduced electrical conductivity was made, suggesting an unexpected outcome from the galvanic replacement reaction and UPD method.\nD. HMNCs with a simple binary structure were observed, indicating a failure in the integration of more than two types of component NCs.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment for the synthesis of edge-satellite HMNCs, a specific method was employed on HMNCs with Pd-coated central NCs. This method involved Pd-coating on Au central NCs followed by Ag and Pd deposition. The variable adjustment made was altering the reactivity of the Ag layer through Pd-coating to achieve edge-satellite deposition. Based on this information, what was the observed outcome of this experimental condition?\n\nGiven options:\nA. HMNCs with satellite NCs encapsulated the Pd-coated central NCs entirely.\nB. HMNCs with satellite NCs selectively deposited along the edges of Pd-coated central NCs were formed.\nC. HMNCs without any satellite NCs were formed due to the lack of Ag and Pd deposition.\nD. HMNCs with satellite NCs were randomly distributed on the surface of Pd-coated central NCs.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of facets in Au nanoparticles, the rate of Au+ reduction was varied. Based on the observed outcomes, which of the following statements correctly describes the correlation between the rate of Au+ reduction and the resulting facet type?\n\nGiven options:\nA. A slower rate of Au+ reduction leads to low-index facets, such as {111}-faceted octahedra.\nB. The rate of Au+ reduction has no significant effect on the type of facets formed in Au nanoparticles.\nC. A faster rate of Au+ reduction results in low-index facets, which are not specified in the given data.\nD. A slower rate of Au+ reduction leads to the formation of high-index facets, such as {111}-faceted octahedra.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanoparticles with selective surface passivation, what observation would you expect when the system is influenced by the binding of an adsorbate, such as Ag?\n\nGiven options:\nA. Particles exhibit random distribution without preference to any facet due to uniform growth rates.\nB. Particles preferentially bind to non-passivated facets, leading to isotropic growth.\nC. Particles show no significant change in distribution or growth rates despite the presence of an adsorbate.\nD. Particles bound entirely by the passivated facet due to differential growth rates.\n",
+            "answer": "D",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on Au nanoparticles, the solubility of Au\u2212halide complexes was observed. If the solubility sequence is [AuCl2]\u2212 > [AuBr2]\u2212 > [AuI2]\u2212, which of the following statements correctly describes the influence of solubility on the reduction rate of Au+ ions?\n\nGiven options:\nA. Decreasing solubility of Au\u2212halide complexes leads to slower Au+ reduction.\nB. The solubility of Au\u2212halide complexes increases the reduction rate of Au+ ions in the order of [AuI2]\u2212 > [AuBr2]\u2212 > [AuCl2]\u2212.\nC. Higher solubility of Au\u2212halide complexes leads to faster Au+ reduction.\nD. Decreasing solubility of Au\u2212halide complexes has no effect on the reduction rate of Au+ ions.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the halide binding strength to the surface of Au nanoparticles, what was the observed effect of increasing halide binding strength on the reduction of Au+ ions?\n\nGiven options:\nA. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) slowed down Au+ reduction due to reduced surface area.\nB. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) increased the reduction rate of Au+ ions due to enhanced electron transfer efficiency.\nC. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) had no significant effect on the reduction rate of Au+ ions.\nD. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) resulted in accelerated Au+ reduction due to increased surface area.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Ag UPD controlled Au nanostructures, what is the observed effect on the Au nanoparticles (AuNPs) when the amount of Ag deposited on the Au surface is increased?\n\nGiven options:\nA. The increase in Ag deposition enhances the growth of open facets, resulting in more complex and branched shapes of the AuNPs.\nB. Increasing the Ag deposition decreases the overall size of the AuNPs, making them more spherical.\nC. More Ag deposition has no significant effect on the open facets or the shapes of the AuNPs.\nD. The increase in Ag deposition reduces the number of open facets, leading to less diverse shapes in the AuNPs.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on observing the growth of Au nanoparticles (AuNPs) under the condition of underpotential deposition (UPD) of silver (Ag), what observation was made regarding the behavior of Ag deposition?\n\nGiven options:\nA. Ag deposition occurred even when ascorbic acid could not effectively reduce Ag+.\nB. Ag deposition was enhanced by the effective reduction of Ag+ by ascorbic acid.\nC. Ag deposition did not occur due to the absence of ascorbic acid.\nD. Ag deposition was completely inhibited by the UPD controlled environment.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Au nanoparticles in the presence of Ag+ and halides, how does the solubility of Ag\u2212halide complexes influence the amount of Ag+ available for reduction?\n\nGiven options:\nA. The solubility of Ag\u2212halide complexes has no influence on the amount of Ag+ available for reduction, and does not affect the Ag coverage on Au nanoparticles.\nB. Decreasing solubility of Ag\u2212halide complexes (AgCl > AgBr > AgI) leads to less Ag+ reduction and lower Ag coverage on Au, affecting the amount of Ag+ available for reduction.\nC. Higher solubility of Ag\u2212halide complexes leads to more Ag+ reduction and greater Ag coverage on Au, increasing the amount of Ag+ available for reduction.\nD. Decreasing solubility of Ag\u2212halide complexes (AgI > AgBr > AgCl) leads to more Ag+ reduction and greater Ag coverage on Au, affecting the amount of Ag+ available for reduction.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Ag UPD controlled Au nanoparticles, what observation is made when Ag preferentially binds to facets with more exposed atoms?\n\nGiven options:\nA. The Ag binding leads to an increased growth rate of the Au nanoparticles without any change in shape.\nB. The Ag binding has no significant effect on the Au nanoparticles, allowing for uncontrolled growth and shape.\nC. Ag binding results in selective passivation of facets, impacting the shape and reduction rate of the Au nanoparticles.\nD. Ag binding causes a uniform acceleration of reduction across all facets, leading to isotropic growth of the Au nanoparticles.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Au nanoparticles (AuNPs) under the condition where silver (Ag) undergoes underpotential deposition (UPD) on the Au surface, which observation correlates with the influence of Ag binding to the Au surface?\n\nGiven options:\nA. The binding of Ag to the Au surface has no significant effect on the kinetics of Au+ reduction.\nB. The binding of Ag to the Au surface enhances the rate of Au+ reduction, leading to rapid growth of AuNPs.\nC. The binding of Ag to the Au surface results in an overall slow rate of Au+ reduction at all Ag+ concentrations due to Ag surface coverage, affecting the kinetics of Au+ reduction.\nD. The binding of Ag to the Au surface causes immediate precipitation of AuNPs, independent of the Ag+ concentration.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment observing the growth of Au nanoparticles with bromide in different pathways, what is the role of bromide and how does it influence the system?\n\nGiven options:\nA. Bromide serves as a reducing agent for Au+ in the kinetic pathway and as a stabilizer for the Au layer in the passivation pathway, with its influence being negligible in both pathways.\nB. Bromide controls the rate of Au+ reduction in the kinetic pathway and influences the stability of the Ag layer in the passivation pathway, with its influence varying between the kinetic and surface passivation pathways.\nC. Bromide provides nucleation sites for Au+ in the kinetic pathway and acts as an oxidizing agent in the passivation pathway, with its influence being more pronounced in the kinetic pathway.\nD. Bromide acts as a catalyst, increasing the rate of Au+ reduction in the kinetic pathway and stabilizing the Ag layer in the passivation pathway, with its influence being constant across both pathways.\n",
+            "answer": "B",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Au nanoparticles with the addition of bromide, how does the presence or absence of Ag+ influence the particle growth rate?\n\nGiven options:\nA. The presence of Ag+ decreases the growth rate of Au nanoparticles with bromide addition.\nB. The presence of Ag+ has no influence on the growth rate of Au nanoparticles with bromide addition.\nC. The presence of Ag+ increases the growth rate of Au nanoparticles with bromide addition, while its absence slows the growth.\nD. The absence of Ag+ increases the growth rate of Au nanoparticles with bromide addition.\n",
+            "answer": "C",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving noble-metal nanocrystals, a facet-selective capping method was employed using the capping agent PVP on Ag. The purpose of the experiment was to observe the growth of AuNPs. Based on the conditions provided, what observation would you expect to be reported?\n\nGiven options:\nA. The capping agent PVP on Ag has no influence on the growth rates of different facets, resulting in isotropic growth.\nB. The growth rate of {100} facets slows down, leading to the formation of nanocubes or five-fold-twinned nanorods.\nC. The capping agent PVP on Ag enhances the dissolution of AuNPs, preventing the formation of any distinct shapes.\nD. The growth rate of {111} facets accelerates, leading to the formation of nanospheres.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of noble-metal nanocrystals using facet-selective capping as the method, what is the expected observation when halide ions are employed as capping agents on metals such as Ag, Pd, Pt, and Rh?\n\nGiven options:\nA. The halide ions induce the formation of structures with a high surface area to volume ratio, such as nanospheres or nanostars, without any facet selectivity.\nB. The halide ions cause the formation of structures mainly enclosed by {111} facets, resulting in octahedra or tetrahedra due to uniform adsorption on all facets.\nC. The halide ions prevent the formation of any nanocrystalline structures, leading to an amorphous metal deposition.\nD. The halide ions promote the formation of structures mainly enclosed by {100} facets such as cubes, bars, or rods due to selective adsorption onto specific facets.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of noble-metal nanocrystals using facet-selective capping, what observation is expected when citrate binding on Ag and Pd influences the differential binding to crystallographic facets?\n\nGiven options:\nA. Leads to the formation of amorphous structures without any distinct crystallographic facets.\nB. Promotes the formation of structures with a large portion of {100} facets like cubes and rods.\nC. Facilitates formation of structures with a large portion of {111} facets like octahedrons and thin plates.\nD. Encourages the formation of structures with a large portion of {110} facets like rhombic dodecahedrons and wires.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving bimetallic Pd-Pt nanocrystals, a facet-selective capping method was employed using oxalate as a capping agent specifically for {111} facets. What was the observed outcome of this experimental condition?\n\nGiven options:\nA. The synthesis of bimetallic tetrahedrons enclosed by {111} facets.\nB. The synthesis of monometallic nanospheres without any facet stabilization.\nC. The synthesis of bimetallic tetrahedrons enclosed by {100} facets.\nD. The synthesis of bimetallic cubes enclosed by {110} facets.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanocrystals, a facet-selective capping method was employed using CTAC as a capping agent. The purpose of the experiment was to observe the growth of the AuNPs facets. What was the observed outcome when CTAC influenced the binding to high-index facets?\n\nGiven options:\nA. Formation of Au cubic nanocrystals with smooth surfaces.\nB. Generation of Au nanorods as a result of preferential growth along the c-axis.\nC. Formation of Au concave trisoctahedrons due to selective binding to high-index facets.\nD. Development of Au spherical nanoparticles with uniform size distribution.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanocrystals with underpotential deposition (UPD) of Ag, what observation is expected when Ag is deposited on specific facets of Au to modulate growth rates along different crystallographic directions?\n\nGiven options:\nA. Formation of Au spherical nanoparticles with uniform size distribution.\nB. Formation of Au nanorods due to unidirectional growth.\nC. Formation of Au concave nanocubes enclosed by high-index {720} facets.\nD. Formation of Ag dendritic structures on the surface of Au nanocrystals.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanocrystals with underpotential deposition (UPD), researchers observed a morphological transition after altering the experimental conditions. Which of the following changes to the experimental setup would result in the observation of Au nanocrystals transitioning from concave cubes to tetrahexahedrons enclosed by high-index {037} facets?\n\nGiven options:\nA. Replacement of CTAC with CTAB and the influence of Cl- ions on the Au surface, without changing the binding affinity and UPD behavior.\nB. Keeping CTAC constant and not introducing any Cl- or Br- ions, while observing the AuNPs growth without changing the binding affinity and UPD behavior.\nC. Replacement of CTAC with CTAB and the impact of Cl- and Br- ions on the Au surface, while changing the binding affinity and UPD behavior.\nD. Maintaining CTAC and observing the impact of Br- ions on the Au surface, while changing the binding affinity and UPD behavior.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of seed-mediated growth of gold nanorods, what is the observed effect of adding silver nitrate to the system during the experiment focused on observing the AuNPs growth?\n\nGiven options:\nA. Silver nitrate addition increases the size of the gold nanorods but does not influence their shape or crystallinity.\nB. Silver nitrate addition dramatically affects the final shape and crystalline structure of gold nanorods.\nC. Silver nitrate addition changes the color of the gold nanorods without affecting their shape or crystallinity.\nD. Silver nitrate addition has no observable effect on the shape or crystallinity of gold nanorods.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth method for synthesizing gold nanorods, how does varying the CTAB concentration and temperature influence the aspect ratio of the resulting nanoparticles?\n\nGiven options:\nA. CTAB concentration and temperature have no effect on the aspect ratio of gold nanorods.\nB. Lower CTAB concentration and temperature result in shorter aspect ratio nanorods.\nC. Lower CTAB concentration and temperature result in longer aspect ratio nanorods.\nD. Higher CTAB concentration and temperature lead to shorter aspect ratio nanorods.\n",
+            "answer": "B",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of the seed-mediated growth method for synthesizing gold nanorods, which of the following statements accurately reflects the observed influence of the amount of seed added to the growth solution on the aspect ratio of the resulting nanorods?\n\nGiven options:\nA. Decrease in seed amount has no significant effect on the aspect ratio of gold nanorods, as it does not influence the shape of the nanoparticles.\nB. The amount of seed added to the growth solution does not influence the aspect ratio but instead affects the overall size of the gold nanorods.\nC. Increasing the seed amount leads to a higher aspect ratio of gold nanorods, promoting isotropic growth over nanorod formation.\nD. Decrease in seed amount favors nanorod formation over isotropic growth, thereby controlling the aspect ratio of gold nanorods.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanorods, how does the pH of the reaction influence the characteristics of the nanorods according to the experimental observations?\n\nGiven options:\nA. Adjusting the pH to be between 5 and 7 has no significant effect on the reaction time or the length of the nanorods.\nB. Maintaining the pH between 2 and 4 shortens the reaction time and produces shorter nanorods.\nC. Keeping the pH above 6 decreases the reaction time and leads to the formation of longer nanorods.\nD. Controlling the pH between 2 and 4 increases the reaction time, resulting in longer nanorods.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth method for synthesizing gold nanoparticles, how do variations in CTAB and ascorbic acid concentrations influence the shape of the resulting particles?\n\nGiven options:\nA. Low CTAB and low ascorbic acid concentrations lead to the formation of cubic particles, while high CTAB and high ascorbic acid result in octahedra.\nB. High CTAB and low ascorbic acid concentrations lead to the formation of cubic particles, while low CTAB and high ascorbic acid result in octahedra.\nC. High CTAB and high ascorbic acid concentrations lead to the formation of cubic particles, while low CTAB and low ascorbic acid result in octahedra.\nD. Low CTAB and high ascorbic acid concentrations lead to the formation of cubic particles, while high CTAB and low ascorbic acid result in octahedra.\n",
+            "answer": "D",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanorods, what is the observed effect on the morphology when glutathione or cysteine is present in the system?\n\nGiven options:\nA. The presence of glutathione or cysteine has no significant effect on the morphology of the gold nanorods, maintaining their original shape.\nB. The presence of glutathione or cysteine promotes elongation along the longitudinal axis, resulting in a transition from truncated octahedra to peanut-shaped nanorods.\nC. The presence of glutathione or cysteine completely suppresses growth along the longitudinal axis, leading to a morphological change from peanut-shaped to truncated octahedra.\nD. The presence of glutathione or cysteine enhances the three-dimensional growth, resulting in spherical nanoparticles rather than rod-shaped.\n",
+            "answer": "C",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanoplates, what was the observed effect on the yield and facet growth when KI was added at pH 4?\n\nGiven options:\nA. Increased yield of gold nanorods by inhibiting growth of {100} facets.\nB. Decreased yield of gold nanoplates by promoting growth of {111} facets.\nC. Decreased yield of gold nanorods by promoting growth of {100} facets.\nD. Increased yield of gold nanoplates by inhibiting growth of {111} facets.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanoplates, what is the observed effect of using poly(vinyl pyrrolidone) (PVP) and sodium citrate on the crystal formation when observing the growth of Au nanorods?\n\nGiven options:\nA. It enhances the growth of Au nanorods without altering the crystal structure.\nB. It prevents the formation of any crystal structures, leading to amorphous materials.\nC. It results in the formation of multi-crystal nanoplates with uniform dimensions.\nD. It yields single crystal nanoplates with varying dimensions.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of seed-mediated growth of gold branched nanostructures, which combination of factors is known to control the gold ion reduction rate, thereby inducing branching in the gold nanostructures?\n\nGiven options:\nA. The ratio of gold salt to seed and the pH level of the solution.\nB. The type of seed material and the duration of the growth process.\nC. The temperature of the reaction and the concentration of the reducing agent.\nD. The seed to gold salt ratio and the amount of reducing agent.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving a single-crystal seed of an fcc metal, capping agents were introduced as a method to influence the metal's structure. The selective binding of these capping agents to specific facets was expected to alter the order of surface free energies and growth rates. What observation would be consistent with the conditions of this experiment?\n\nGiven options:\nA. The introduction of capping agents had no discernible effect on the fcc metal, and the crystal structure remained unchanged.\nB. Introduction of capping agents leads to the formation of nanocrystals with specific shapes like nanocubes enclosed by {100} facets or octahedrons enclosed by {111} facets.\nC. The fcc metal transformed into a bcc metal upon the introduction of capping agents, demonstrating a change in the crystal lattice structure.\nD. Introduction of capping agents led to the formation of nanocrystals with random shapes, showing no preference for specific facets.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Ag nanocrystals, when PVP and citrate are used as capping agents, what is the observed influence on the crystal growth, and how does it correlate with the differential binding of the capping agents to specific crystal facets?\n\nGiven options:\nA. Both PVP and citrate lead to the selective growth of Ag cubes with {100} facets, as they both preferentially bind to Ag(100).\nB. PVP leads to the selective growth of Ag octahedrons with {111} facets due to its preferential binding to Ag(111), while citrate results in Ag cubes with {100} facets due to its affinity for Ag(100).\nC. Both PVP and citrate result in the formation of Ag octahedrons with {111} facets, since they have a similar affinity for Ag(111).\nD. PVP results in Ag cubes with {100} facets due to its preferential binding to Ag(100), while citrate leads to Ag octahedrons with {111} facets due to its affinity for Ag(111).\n",
+            "answer": "D",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of Pd nanocrystals, what is the observed effect when Br\u2212 ions are introduced as capping agents in an adequate amount?\n\nGiven options:\nA. The reduction in the overall size of the Pd nanocrystals.\nB. The formation of Pd spheres without any specific facet expression.\nC. The formation of Pd cubes enclosed by {111} facets.\nD. The formation of Pd cubes enclosed by {100} facets.\n",
+            "answer": "D",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Ag nanocrystals, how does the initial concentration of PVP as a capping agent influence the system when the method involves variation in PVP concentration?\n\nGiven options:\nA. It increases the uniformity of the nanocrystal sizes without affecting the shape or growth rate.\nB. It decreases the time required for the Ag nanocrystals to reach their final size without altering their polyhedral shapes.\nC. It has no significant effect on the shape of the Ag nanocrystals or the growth rate.\nD. It leads to a range of polyhedron shapes, from cubes to octahedrons, and controls the coverage density and growth rate.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of metal nanocrystals using surface diffusion during synthesis, what is the expected observation when the process is characterized by inadequate surface diffusion?\n\nGiven options:\nA. The nanocrystals undergo a phase transition resulting in altered chemical properties.\nB. The nanocrystals are trapped in thermodynamically less favorable shapes due to the formation of kinetic products with non-equilibrium shapes.\nC. The nanocrystals exhibit enhanced electrical conductivity unrelated to their shape.\nD. The nanocrystals achieve equilibrium shapes that are thermodynamically favorable.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of metal nanocrystals via a decomposition route, employing the LaMer mechanism, what is the effect of reducing the concentration of metal atoms in solution below the minimum supersaturation level?\n\nGiven options:\nA. It increases the rate of nucleation, leading to smaller nanocrystals.\nB. It has no significant effect on the nucleation and growth pattern of the nanocrystals.\nC. It causes immediate dissolution of existing nuclei, preventing the formation of nanocrystals.\nD. It halts additional nucleation, leading to the growth of existing nuclei into larger nanocrystals.\n",
+            "answer": "D",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the process of metal nanocrystals synthesis via a reduction route, when precursor compounds in higher oxidation states are directly converted into nuclei, what is the observed phenomenon regarding the formation of nuclei?\n\nGiven options:\nA. Precursor compounds remain in a higher oxidation state and do not contribute to the growth of nanocrystals.\nB. Precursor compounds reduce to a zero-valent state before aggregating into larger particles, which then form the nuclei of nanocrystals.\nC. Precursor compounds can directly convert into nuclei and merge with other precursor-based nuclei or growing nanocrystals, bypassing a zero-valent state.\nD. Precursor compounds convert into nuclei by first forming a zero-valent state and then merging with other nuclei.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the autocatalytic growth of metal nanocrystals, what observation is made when a mild reducing agent is used in conjunction with a high concentration of precursor?\n\nGiven options:\nA. The growth of metal nanocrystals is unaffected by the concentration of the precursor or the presence of a reducing agent.\nB. The growth of metal nanocrystals is decelerated, resulting in a slower enlargement of nanocrystals.\nC. The growth of metal nanocrystals is inhibited, leading to smaller nanocrystal sizes.\nD. The growth of metal nanocrystals is accelerated, facilitating rapid enlargement of nanocrystals.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of first-principles molecular dynamics simulations studying metal nanocrystals via reduction, which of the following best describes the observed autocatalytic growth mechanism?\n\nGiven options:\nA. Autocatalytic growth is facilitated by preferential electron transfer to dimeric and trimeric units, bypassing the direct reduction of monomeric precursors.\nB. Autocatalytic growth is facilitated by equal electron transfer to monomeric, dimeric, and trimeric units, resulting in uniform nanocrystal growth.\nC. Autocatalytic growth occurs exclusively through the direct reduction of monomeric precursors, without the involvement of dimeric or trimeric units.\nD. Autocatalytic growth is hindered by preferential electron transfer to monomeric precursors, leading to a decrease in nanocrystal growth.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment studying regioselective passivation involving Gold Nanorods and Nanobipyramids, when thiol-ended poly(ethylene glycol) (PEG) is used as a ligand at relatively low concentrations, what is the observed effect on the growth of these nanostructures?\n\nGiven options:\nA. Strong ligands bind to low-curvature sites, promoting uniform growth across the nanostructures.\nB. Strong ligands do not bind to the nanostructures, resulting in no significant change in growth patterns.\nC. Strong ligands bind to high-curvature sites (corners, edges), diverting subsequent growth to other sites.\nD. Strong ligands bind indiscriminately to all sites, leading to uncontrolled growth of the nanostructures.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au decahedrons and Nanoplates with Thiol-ended PEG ligands and controlled Au0 oversaturation, what observation was made regarding the site-specificity of selective deposition?\n\nGiven options:\nA. No selective deposition was observed; instead, ligand packing density was found to be uniform across all curvature sites.\nB. Selective deposition on high-curvature sites was facilitated by sparser ligand packing at these sites.\nC. Selective deposition occurred uniformly across all sites, unaffected by ligand packing density.\nD. Selective deposition was observed on low-curvature sites due to denser ligand packing at these sites.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the \"Embedding in Metal Shells study\" involving Gold Nanoparticles (AuNPs) and Thiol-ended DNA Molecules, what observation was made regarding the interaction between the ligands and the metal layers?\n\nGiven options:\nA. Thiol-ended DNA molecules repelled the metal layers, preventing any ligands from being sandwiched between them.\nB. Thiol groups, being weak ligands, failed to anchor, resulting in the absence of ligands between metal layers.\nC. Strong ligands like thiol groups anchor firmly, leading to sandwiched ligands between metal layers.\nD. Hydroxyl groups, serving as ligands, formed unstable bonds, causing the ligands to detach from the metal layers.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of a Substrate-Assisted Growth study of Ultrathin Gold Nanowires (AuNWs) using 4-Mercaptobenzoic Acid (4-MBA) as the ligand on an Amine-Functionalized Oxide Surface, what observation was made regarding the relationship between the NW width and the experimental conditions?\n\nGiven options:\nA. NW width was observed to be independent of the seed size, but influenced by the Au reduction rate and ligand inhibition, resulting in a uniform diameter.\nB. NW width was determined to be variable and dependent on the ligand type, with no significant influence from the Au reduction rate or seed size.\nC. NW width was noted to be influenced by the substrate type, with the seed size and Au reduction rate having negligible effects on the uniformity of the diameter.\nD. NW width was found to be directly proportional to the size of the seed, unaffected by the rate of Au reduction or ligand activity.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment titled \"Colloidal Synthesis in Ultralong Au Nanohelices,\" researchers observed the formation of ultralong nanohelices with extraordinary aspect ratios. These nanohelices were synthesized under specific conditions. Which of the following options correctly describes the conditions under which the observed ultralong Au nanohelices with extraordinary aspect ratios were formed?\n\nGiven options:\nA. The nanohelices were formed in a system using a different ligand type, influenced by growth environment in metal\u2212ligand complex floccules.\nB. The nanohelices were formed in a system using freshly prepared 4-MBA as the ligand type.\nC. The nanohelices were formed in a system using aged 4-MBA as the ligand type, without any specified influence on the growth environment.\nD. The nanohelices were formed in a system using aged 4-MBA as the ligand type, influenced by the presence of metal\u2212ligand complex floccules.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the etching process of Silver Nanostructures, Polyvinylpyrrolidone (PVP) was used as a ligand. What was the observed effect of using PVP-protected surfaces on the etching process?\n\nGiven options:\nA. PVP-protected surfaces caused complete inhibition of the etching process, preventing the formation of any nanostructures.\nB. PVP-protected surfaces led to non-selective etching, resulting in uniform nanostructures with increased high-curvature regions.\nC. PVP-protected surfaces had no significant effect on the etching process, and the nanostructures remained unchanged.\nD. PVP-protected surfaces lead to selective etching, forming intricate nanostructures with reduced high-curvature regions.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB with a standard seed concentration of 50 \u03bcL, what observation would be expected based on the provided experimental conditions?\n\nGiven options:\nA. Formation of spherical nanoparticles with a uniform size distribution of approximately 50 nm in diameter.\nB. Formation of hexagonal-twinned nanorods with variable lengths and widths, showing no specific facet coverage.\nC. Formation of irregularly shaped nanoparticles with no specific facet orientation.\nD. Formation of perfect pentagonal-twinned nanorods with average length 46 \u00b1 7 nm and width 43 \u00b1 4 nm, covered with (100) facets at sides and (111) facets at ends.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB, the seed concentration was reduced to 20 \u03bcL, constituting 40% of the standard amount used. What observation would be expected from this alteration in the synthesis process?\n\nGiven options:\nA. Increased average size of product nanostructures, but with a drastic increase in the aspect ratio to greater than 2.0.\nB. Increased average size of product nanostructures, average length 77 nm and width of (110) facets 49 nm, with aspect ratio almost unchanged at 1.6-1.7.\nC. No change in the average size of the product nanostructures, but a decrease in the aspect ratio to less than 1.0.\nD. Decrease in the average size of the product nanostructures, with a significant change in the aspect ratio.\n",
+            "answer": "B",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB, the seed concentration was greatly reduced to 10 \u03bcL, which is 20% of the standard concentration. What observation would you expect from this alteration in the experimental conditions?\n\nGiven options:\nA. A decrease in the average size of the Au Nanorods, with shorter lengths and narrower widths.\nB. Further increase in average size, average length 110 nm and width of (110) facets 67 nm, with notches at intersecting corners of (100) and (111) facets.\nC. No significant change in the size or shape of the Au Nanorods compared to those synthesized with the standard seed concentration.\nD. Formation of Au Nanorods with uniform dimensions and smooth surfaces without any notches at the corners.\n",
+            "answer": "B",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using Au decahedra in CTAB as the seed solution, what observation would you expect if the seed concentration was extremely reduced to 5 \u03bcL, constituting 10% of the standard concentration?\n\nGiven options:\nA. A significant increase in the average size of the nanorods, with an average length of 135 nm and width of (110) facets 80 nm, and larger notches leading to a change in nanorod shape.\nB. The formation of spherical nanoparticles instead of rod-like structures due to the lack of sufficient seed material.\nC. A decrease in the average size of the nanorods, with shorter lengths and narrower widths.\nD. No significant change in the average size, length, or width of the nanorods compared to the standard synthesis procedure.\n",
+            "answer": "A",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB, a dramatic change in morphology was observed when the seed concentration was set to the minimally possible amount (1 \u03bcL, 1% of standard). This change was characterized by the appearance of random cone-like spikes and the absence of pentagonal twinning, indicating a complete switch in growth mode. Based on these conditions and observations, which of the following statements is correct?\n\nGiven options:\nA. A higher than standard seed concentration of Au decahedra in CTAB was used, leading to the absence of pentagonal twinning in the Au Nanorods.\nB. The minimally possible seed concentration of Au decahedra in CTAB led to a dramatic change in morphology, with the appearance of random cone-like spikes and the absence of pentagonal twinning in the Au Nanorods.\nC. The use of a non-CTAB seed solution at a minimally possible concentration resulted in the standard morphology of Au Nanorods with pentagonal twinning.\nD. The standard seed concentration of Au decahedra in CTAB typically results in the formation of cone-like spikes on Au Nanorods.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, a monolayer of ligands was used to cover the Au Nanowires, which were synthesized through the preparation of oleylamine-stabilized ultrathin Au nanowires via reduction, followed by purification. The initial aggregation state of the nanowires was in parallel bundles within a polar phase. During the experiment, Palladium (Pd) was deposited onto the Au nanowires through the reduction of Na2PdCl4 using L-ascorbic acid. What observation would indicate a successful deposition of Pd onto the Au nanowires and the resultant formation of nanoropes?\n\nGiven options:\nA. The solution's color remained light pink, and the nanowires maintained their initial parallel bundle structure without forming nanoropes.\nB. The solution's color remained light pink, but the nanowires transformed from parallel bundles into intricate helical patterns, indicating the formation of nanoropes.\nC. The solution's color transitioned from light pink to dark brown, indicative of successful Pd deposition on Au nanowires. Resultant formation of nanoropes from initial nanowire bundles; the transformation was marked by a shift from parallel stripes to intricate helical patterns, demonstrating a complex twisting behavior.\nD. The solution's color transitioned from light pink to dark brown, and the nanowires maintained their initial parallel bundle structure without forming nanoropes.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, where the nanowires were initially aggregated into parallel bundles in a polar phase and stabilized with a monolayer of oleylamine ligands, what observation was made when manipulating the number of strands in the nanowire bundles?\n\nGiven options:\nA. All nanoropes, regardless of the number of strands, showed a consistent 'fishnet' pattern, indicating uniform mechanical strain distribution.\nB. Thicker nanoropes comprising more than ten strands displayed a 'fishnet' pattern, whereas thinner nanoropes showed double, triple, and quadruple helical structures with uniform curvature.\nC. Thinner nanoropes displayed a 'fishnet' pattern, while thicker nanoropes with more than ten strands showed double, triple, and quadruple helical structures.\nD. Thinner nanoropes with more than ten strands displayed double, triple, and quadruple helical structures, while thicker nanoropes showed a 'fishnet' pattern.\n",
+            "answer": "B",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) stabilized with a monolayer of ligands into nanoropes, which observation correlates with the initial condition where the nanowires were aggregated into parallel bundles in a polar phase and subjected to a variation in pitch length relative to the thickness of the nanoropes?\n\nGiven options:\nA. An increase in pitch length proportional to the increase in nanorope thickness was noted, ranging from approximately 35 nm in two-strand helices to up to 160 nm in thicker nanoropes, indicating a lower degree of deformation in each strand for thicker nanoropes.\nB. A decrease in pitch length proportional to the increase in nanorope thickness was observed, suggesting a higher degree of deformation in each strand for thicker nanoropes.\nC. The pitch length remained constant regardless of the nanorope thickness, implying that the twisting process does not affect the structural integrity of the nanowires.\nD. The pitch length and nanorope thickness were inversely proportional, with thinner nanoropes exhibiting longer pitch lengths, contrary to the expected physical limits of the strands.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, the nanowires were initially aggregated into parallel bundles in a polar phase and stabilized with a monolayer of ligands. The synthesis method included the preparation of oleylamine-stabilized ultrathin Au nanowires through reduction, followed by purification. Researchers experimented with both chiral and achiral reductants in the synthesis process. Based on the conditions and observations recorded, which statement correctly reflects the outcome of using different reductants in the formation of helical nanorope structures?\n\nGiven options:\nA. The use of a chiral reductant was essential for the formation of helical nanorope structures, as achiral reductants failed to produce comparable nanoropes.\nB. The chirality of the reductant altered the ligand coverage on the Au nanowires, which in turn affected the twisting of the nanowires into nanoropes, with chiral reductants leading to tighter and more uniform helical structures.\nC. Regardless of the chirality of the reductant used, similar nanorope structures were formed, with achiral hydroquinone producing comparable nanoropes, indicating that the chirality of the reductant is not a determining factor in the formation of the helical structures.\nD. The formation of nanorope structures was only observed when a specific chiral reductant was used, while the use of achiral reductants led to the formation of straight, non-helical nanowires.\n",
+            "answer": "C",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of ultrathin gold nanowires (Au Nanowires) into nanoropes, a monolayer of ligands was used to cover the nanowires, which were initially aggregated into parallel bundles in a polar phase. The nanowires were synthesized through the preparation of oleylamine-stabilized ultrathin Au nanowires via reduction, followed by purification. A systematic screening of various reaction parameters, including different surfactants and Pd precursors, was conducted. What was the primary observation regarding the influence of solvent and pH conditions on the desired synthesis process?\n\nGiven options:\nA. The solvent and pH conditions had no observable effect on the synthesis process, and the nanoropes were formed consistently regardless of these parameters.\nB. Altering the solvent and pH conditions led to an unexpected increase in the rate of Pd reduction, which significantly improved the quality of the nanoropes.\nC. The study found that most variations in solvent and pH conditions were unsuitable for the desired synthesis due to mismatched rates of Pd reduction, indicating that these factors play a less critical role in the synthesis process.\nD. Solvent and pH conditions were found to be the most critical factors in the synthesis process, with only specific combinations leading to successful nanorope formation.\n",
+            "answer": "C",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, a monolayer of ligands was applied to the nanowires, which were synthesized through the preparation of oleylamine-stabilized ultrathin Au nanowires via reduction, followed by purification. The initial condition included the aggregation of these nanowires into parallel bundles in a polar phase. A controlled variation in the amount of Pd deposited on the Au nanowires was introduced as an adjustment. What was the observed outcome of this experiment?\n\nGiven options:\nA. The formation of nanoropes with no twisting observed, and a transition from a body-centered cubic (bcc) lattice towards a non-chiral form, suggesting lattice dynamics play a minor role in the structural evolution of the nanoropes.\nB. The formation of nanoropes with varying degrees of twisting and a consistent face-centered cubic (fcc) lattice structure, regardless of the amount of Pd deposited.\nC. The formation of nanoropes with uniform twisting and a consistent hexagonal close-packed (hcp) lattice structure, unaffected by the amount of Pd deposited.\nD. The formation of nanoropes with varying degrees of twisting and a transition from a face-centered cubic (fcc) lattice towards a chiral form, indicating the significance of lattice dynamics in the structural evolution of the nanoropes.\n",
+            "answer": "D",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment involving the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using a colloidal nanoparticle synthesis system, complete ligand coverage was achieved using 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA). The initial conditions included incubating citrate-stabilized Au nanoparticle seeds with MBIA at 60 \u00b0C for 2 hours, followed by cooling and the addition of hydroquinone and AgNO3. The rate of AgNO3 addition was varied using a syringe pump. Which of the following observations correctly correlates with the condition where AgNO3 was added at a rate of 3.75 \u03bcL/min?\n\nGiven options:\nA. The formation of spherical and elongated Ag domains was predominant, suggesting a rapid addition rate of AgNO3.\nB. The addition of AgNO3 at this rate resulted in the exclusive formation of Ag plates, with no evidence of nanowire or spherical domain structures.\nC. Nearly 100% of seeds formed nanowires, indicating a lack of ligand control over the nanostructure formation.\nD. 82% of seeds formed nanowires, demonstrating increased ligand control at slower AgNO3 addition rates leading to the formation of specific nanostructures.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using citrate-stabilized Au nanoparticles as seeds, which were incubated with 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA) at 60 \u00b0C for 2 hours and then cooled before the addition of hydroquinone and AgNO3, what observation was made when sodium citrate was added at different concentrations 30 minutes after starting the AgNO3 addition?\n\nGiven options:\nA. The addition of sodium citrate at low concentrations (0.12, 0.3 mM) resulted in the formation of nearly spherical domains, while a high concentration (1.16 mM) led to the formation of faceted Ag nanoplates at the end of nanowires.\nB. The addition of sodium citrate at concentrations of 0.12, 0.3, and 1.16 mM resulted in the formation of nearly spherical domains at all concentrations.\nC. The addition of sodium citrate at a concentration of 1.16 mM led to the formation of nearly spherical domains at the end of nanowires.\nD. The addition of sodium citrate at low concentrations (0.12, 0.3 mM) resulted in the formation of faceted Ag nanoplates at the end of nanowires.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using citrate-stabilized Au nanoparticles as seeds, which were incubated with 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA) at 60 \u00b0C for 2 hours and then cooled before the addition of hydroquinone and AgNO3, what observation was made when the rate of AgNO3 addition was reduced?\n\nGiven options:\nA. The reduced rates of AgNO3 addition led to an excess of Ag atoms, causing uncontrolled growth and resulting in the formation of irregular nanostructures.\nB. The reduced rates of AgNO3 addition resulted in the complete inhibition of Ag atom formation, preventing the synthesis of the (Ag wire)\u2212(Ag plate) components of the triblock nanostructures.\nC. The reduced rates of AgNO3 addition caused an accelerated growth of the Ag plate, overshadowing the formation of the Au sphere and Ag wire components.\nD. The reduced rates of AgNO3 addition led to limited feeding of Ag atoms, allowing more ligands to bind to the emerging Ag domain, which favored the formation of nanowires and inhibited the growth of some nanoparticles.\n",
+            "answer": "D",
+            "predicted": "Answer: **A**",
+            "predicted_choice": ""
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment involving the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using citrate-stabilized Au nanoparticles as seeds, which were incubated with 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA) at 60 \u00b0C for 2 hours and then cooled before adding hydroquinone and AgNO3, what was the observed effect of varying the rates of AgNO3 addition and sodium citrate concentration on the morphology of the resulting nanostructures?\n\nGiven options:\nA. Higher rates of AgNO3 addition and sodium citrate concentration resulted in the formation of predominantly (Au sphere)\u2212(Ag plate) structures due to suppressed nanowire growth.\nB. Lower rates of AgNO3 addition and sodium citrate concentration led to nearly 100% nanowire formation due to equivalent growth of Ag islands.\nC. At high AgNO3 rates and citrate concentrations, equivalent growth of Ag islands occurred, leading to nearly 100% nanowire formation.\nD. At lower rates of AgNO3 addition and sodium citrate concentration, the growth dynamics favored the exclusive formation of Ag plates, with no evidence of nanowire or sphere structures.\n",
+            "answer": "C",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. The synthesis method included the synthesis of AuNBPs followed by incubation with 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. When the ligand coverage was adjusted to an AMBI concentration of 2.0 \u03bcM, what observation was made regarding the growth mode and structural changes of the AuNBPs?\n\nGiven options:\nA. The growth mode was selective etching with no change in aspect ratio, leading to major growth on equatorial corners and no significant over-coating on any surfaces.\nB. The growth mode was dendritic with an increase in aspect ratio, resulting in significant etching at the equatorial corners and no observable over-coating.\nC. The growth mode was random with significant etching at the tips, leading to an increase in aspect ratio and substantial growth on the polar tips.\nD. The growth mode was conformal over-coating with inhibition of etching at the tips, resulting in a decrease in aspect ratio, minor growth on polar tips, and mainly over-coating on the sides.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. The synthesis method included the synthesis of AuNBPs followed by incubation with varied concentrations of 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. What observation would you expect if the AMBI concentration was adjusted to 4.0 \u03bcM?\n\nGiven options:\nA. Complete dissolution of AuNBPs with no observable axial tips or equatorial corners remaining.\nB. Nonuniform over-coating with bulging in the middle section, long axis unchanged, and an increase in equatorial width, formation of 'nonwetting' boundaries near tips.\nC. Uniform over-coating with no change in the long axis or equatorial width, maintaining wetting boundaries near tips.\nD. Formation of additional nano-bipyramids with no significant change to the original AuNBPs structure.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. The synthesis method included the synthesis of AuNBPs followed by incubation with varied concentrations of 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. When the AMBI concentration was adjusted to 120 \u03bcM, what was the observed growth pattern on the AuNBPs?\n\nGiven options:\nA. Uniform growth leading to a smooth coating over the entire surface of the AuNBPs.\nB. Nonwetting growth leading to spherical islands mostly at axial tips, with 90% growth at high-curvature axial tips and 10% at equatorial corners, along with a significant size increase at growth points.\nC. Complete dissolution of the AuNBPs, resulting in the formation of a homogeneous gold solution without any distinct nanostructures.\nD. Preferential growth at the equatorial corners of the AuNBPs, resulting in elongated structures predominantly in the equatorial region.\n",
+            "answer": "B",
+            "predicted": "Answer: ##D## ",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the synthesis method included the synthesis of AuNBPs followed by incubation with 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. If the initial structure of the AuNBPs had uniform axial tips and equatorial corners, and the ligand coverage involved varied concentrations of AMBI, what would be the expected observation when the AMBI concentration is set to 280 \u03bcM?\n\nGiven options:\nA. Uniform growth at both axial tips and equatorial corners, with no presence of organic materials.\nB. Selective binding of floccules at equatorial corners, diverting growth to axial tips. 90% growth at equatorial corners, 10% at axial tips, with the presence of organic materials around equatorial corners.\nC. Selective binding of floccules at axial tips, diverting growth to equatorial corners. 10% growth at axial tips, 90% at equatorial corners, presence of organic materials around axial tips.\nD. No significant growth observed on either axial tips or equatorial corners, with a homogeneous distribution of organic materials around the entire structure.\n",
+            "answer": "C",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), a synthesis method was employed that included the synthesis of AuNBPs followed by incubation with 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. The initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. When the ligand coverage was adjusted to an AMBI concentration of 300 \u03bcM, what was the observed outcome?\n\nGiven options:\nA. Homogeneous nucleation leading to free Au nanoparticles occurred, with no island growth on AuNBPs, resulting in isolated Au nanoparticles formation.\nB. The equatorial corners of the AuNBPs experienced selective deposition, forming a shell-like structure around the bipyramids.\nC. The AuNBPs underwent a morphological change, transforming into Au nanorods due to the high concentration of AMBI.\nD. Regioselective growth occurred on the axial tips of the AuNBPs, leading to anisotropic elongation.\n",
+            "answer": "A",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the controlled growth of Gold Nanocrystals (Au NCs) using a seed-mediated growth strategy, where the initial seeds were Triangular nanoprisms, Octahedral seeds, Concave rhombic dodecahedral seeds, and Decahedral seeds, and the nanocrystals were functionalized with mPEG6 disulfide, what observation would you expect after adjusting the chemical potential (\u2206\u03bc) of the growth solution using ascorbic acid concentration?\n\nGiven options:\nA. Formation of an amorphous gold layer around the seeds, leading to the loss of the initial seed shapes.\nB. Uniform growth across all facets of the nanocrystal seeds without any site specificity.\nC. Dissolution of the initial seeds without any subsequent growth due to the over-reduction of the gold ions.\nD. Selective site-specific deposition resulting in growth preferentially at corners of seeds like octahedral and concave rhombic dodecahedral gold seeds, and growth predominantly at edges of seeds.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the controlled growth of Gold Nanocrystals (Au NCs) using a seed-mediated growth strategy, the initial seeds were functionalized with mPEG6 disulfide. The goal was to direct the growth specifically on corners, edges, and facets of the nanocrystals. If the initial shapes included Triangular nanoprisms, Octahedral seeds, Concave rhombic dodecahedral seeds, and Decahedral seeds, and the adjustment made was to use nanorods with alternating {100} and {110} facets as seeds, what would be the expected observation regarding facet-selective nucleation and growth?\n\nGiven options:\nA. Selective deposition occurs equally on both {100} and {110} facets due to similar surface energies.\nB. No facet-selective nucleation and growth occur; deposition is random.\nC. Selective deposition on {100} facets over {110} due to lower surface energy.\nD. Selective deposition on {110} facets over {100} due to higher surface energy.\n",
+            "answer": "D",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the controlled growth of Gold Nanocrystals (Au NCs) using a seed-mediated growth strategy, where the initial seeds were Triangular nanoprisms, Octahedral seeds, Concave rhombic dodecahedral seeds, and Decahedral seeds, and the nanocrystals were functionalized with mPEG6 disulfide, what observation would you expect when varying the CTAB concentration in the growth solution?\n\nGiven options:\nA. Increasing the CTAB concentration results in the exclusive growth of {111} facets, regardless of the chemical potential differences (\u2206\u03bc).\nB. The CTAB concentration affects the size of the nanocrystals but does not influence the exposure of specific crystal facets.\nC. The variation of CTAB concentration has no discernible effect on the nanocrystal growth or the exposed facets.\nD. Higher CTAB concentration leads to the exposure of high-energy surfaces ({100} facets) due to higher chemical potential differences (\u2206\u03bc), while lower CTAB concentration favors the exposure of lower-energy surfaces ({111} facets) at lower \u2206\u03bc.\n",
+            "answer": "D",
+            "predicted": "Answer: ##D##",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Au\u2013Ag Nanoparticles via colloidal growth with ligand incubation and Ag reduction, researchers started with 70 nm citrate-stabilized Au nanoparticles. They introduced 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) as a ligand and used Hydroquinone (HQ) as a reductant. The incubation was performed at a temperature range of 60\u2013100\u00b0C. If the Au seeds were incubated with MBIA at 60\u00b0C for 2 hours, what was the observed outcome of this specific set of conditions?\n\nGiven options:\nA. No significant change in the Au nanoparticles, maintaining their initial citrate-stabilized state.\nB. Formation of Au\u2013Ag alloy nanoparticles with low purity.\nC. Formation of Au\u2013Ag core-shell nanoparticles with moderate purity.\nD. Formation of Au\u2013Ag Janus nanoparticles with high purity (95.7%), with a single Ag island per Au seed.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag Nanoparticles using 70 nm citrate-stabilized Au nanoparticles as seeds, 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) as the ligand, and Hydroquinone (HQ) as the reductant, what was the observed outcome when the Au seeds were incubated with MBIA at a temperature range of 60\u2013100\u00b0C? Specifically, what were the results when the incubation was conducted at 80\u00b0C and 100\u00b0C for 2 hours?\n\nGiven options:\nA. At 80\u00b0C, the formation of monomers (9.7%), dimers (56%), and trimers (35%) was observed, while at 100\u00b0C, most seeds had 2\u20133 islands.\nB. At 80\u00b0C, the formation of dimers (35%), trimers (56%), and tetramers (9.7%) was observed, while at 100\u00b0C, most seeds had 1\u20133 islands.\nC. At 80\u00b0C, the formation of trimers (9.7%), tetramers (56%), and pentamers (35%) was observed, while at 100\u00b0C, most seeds had 7\u20139 islands.\nD. At 80\u00b0C, the formation of dimers (9.7%), trimers (56%), and tetramers (35%) was observed, while at 100\u00b0C, most seeds had 4\u20136 islands.\n",
+            "answer": "D",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Au\u2013Ag Nanoparticles through colloidal growth with ligand incubation and Ag reduction, 70 nm citrate-stabilized Au nanoparticles were initially used. The ligand 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) and the reductant Hydroquinone (HQ) were introduced, and the mixture was incubated at a temperature range of 60\u2013100\u00b0C. If the incubation time with MBIA at 60\u00b0C was increased up to 15 hours, which of the following observations would be consistent with the condition-observation correlation described in the experiment records?\n\nGiven options:\nA. A slight increase in valency of core\u2013satellite structures, with 52% Janus nanoparticles and 48% trimers; among trimers, 57% roughly straight (Ag\u2013Au\u2013Ag angle \u2265 120\u00b0), 43% more asymmetric (angle < 120\u00b0).\nB. No change in the nanoparticle structures, with the majority being citrate-stabilized Au nanoparticles and no formation of Janus nanoparticles or trimers.\nC. The complete conversion of Au nanoparticles into Ag nanoparticles with no evidence of core\u2013satellite structures or Janus nanoparticles.\nD. A significant decrease in the size of the Au nanoparticles and the formation of 80% Janus nanoparticles with the remaining 20% being dimers.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag Nanoparticles with ligand incubation and Ag reduction, 70 nm citrate-stabilized Au nanoparticles were used as seeds. The ligand 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) and the reductant Hydroquinone (HQ) were introduced, with the process conducted at an incubation temperature range of 60\u2013100\u00b0C. If the concentration of HQ was varied, which of the following observations would be consistent with the results of the experiment?\n\nGiven options:\nA. A monotonous increase in the number of Ag islands per seed with decreasing HQ concentration, and an increase in average valency from 3.6 to 2.5, 1.9, and finally 1 with HQ concentration decrement.\nB. A decrease in the number of Ag islands per seed with increasing HQ concentration, and a decrease in average valency.\nC. A monotonous increase in the number of Ag islands per seed with increasing HQ concentration, and an increase in average valency from 1 to 1.9, 2.5, and 3.6 with HQ concentration increment.\nD. No change in the number of Ag islands per seed regardless of the HQ concentration, but a decrease in average valency.\n",
+            "answer": "C",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag nanoparticles, 70 nm citrate-stabilized Au nanoparticles were used as seeds. The synthesis method included ligand incubation with 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) and Ag reduction using Hydroquinone (HQ) at an incubation temperature range of 60\u2013100\u00b0C. During the process, the concentration of NaOH was varied. Based on the conditions provided, which observation correctly correlates with the alteration of NaOH concentration?\n\nGiven options:\nA. Increase in product valency with decreasing NaOH concentration, accompanied by the dispersion of Ag islands into individual nanoparticles.\nB. No change in product valency regardless of NaOH concentration, with Ag islands remaining consistently dispersed.\nC. Increase in product valency with increasing NaOH concentration, leading to the formation of a continuous shell due to the merging of crowded small Ag islands.\nD. Decrease in product valency with increasing NaOH concentration, resulting in fewer Ag islands per seed.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag Nanoparticles with ligand incubation and Ag reduction, 70 nm citrate-stabilized Au nanoparticles were used as initial seeds. The ligand employed was 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA), and Hydroquinone (HQ) served as the reductant. The incubation temperature range was set between 60\u2013100\u00b0C. When seeds of different sizes (15, 25, and 70 nm) were introduced, what was the observed effect on the growth process and the required adjustment to the synthesis conditions?\n\nGiven options:\nA. Uniform single-island growth was observed on seeds of various sizes; no adjustment to NaOH concentration was necessary. Different average valencies for different seed sizes were reported.\nB. Multi-island growth was achievable on seeds of various sizes; higher NaOH concentration was needed for smaller seeds. The size of Ag islands was similar across all seeds.\nC. Multi-island growth was inhibited on seeds of various sizes; lower NaOH concentration was needed for larger seeds. The size of Ag islands varied significantly across all seeds.\nD. Multi-island growth was achievable on seeds of various sizes; lower NaOH concentration was needed for larger seeds. The size of Ag islands was similar across all seeds, but the valency of the nanoparticles decreased with increasing seed size.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the transformation of Au nanoplates into concave nanostructures through epitaxial growth from triangular nanoplate, combining ligand-promoted facet-selective growth and site-specific deposition, and influenced by ligands, particularly L-cysteine, what observation would you expect if the reaction mixture contained CTAB (10 mM), HAuCl4 (0.15 mM), L-ascorbic acid (0.33 mM), and L-cysteine (0.08 mM), given that the system is Au nanoparticles with rhombic dodecahedron outlines and deep cavities?\n\nGiven options:\nA. Formation of hexagonal bowls with triangular cavities, average edge length 220 nm, thickness about 180 nm.\nB. Formation of spherical nanoparticles with an average diameter of 220 nm.\nC. Formation of flat triangular nanoplates with no significant concavity or depth.\nD. Formation of cubic structures with smooth surfaces and no cavities.\n",
+            "answer": "A",
+            "predicted": "Answer: ##A##",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the transformation of Au nanoplates into concave nanostructures through epitaxial growth from triangular nanoplates, which combined ligand-promoted facet-selective growth and site-specific deposition, the influence of ligands, particularly L-cysteine, was studied without specific mention of initial aggregation. When the concentration of L-cysteine was varied, what was the observed effect on the Au nanoparticles with rhombic dodecahedron outlines and deep cavities?\n\nGiven options:\nA. Adjusting the L-cysteine concentration caused the nanoparticles to transform into perfect rhombic dodecahedrons without any concave features.\nB. The change in L-cysteine concentration resulted in a uniform increase in the size of the nanoparticles without affecting their shape or concavity.\nC. Varying the concentration of L-cysteine altered the facet preference and edge effect, influencing the shape and depth of the concave structures, leading to changes in nanoparticle morphology with different degrees of concavity and facet arrangements.\nD. The concentration of L-cysteine had no discernible effect on the nanoparticle morphology or concavity.\n",
+            "answer": "C",
+            "predicted": "Answer: ##C##",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the transformation of Au nanoplates into concave nanostructures through epitaxial growth from triangular nanoplates, which combines ligand-promoted facet-selective growth and site-specific deposition, and is influenced by ligands, particularly L-cysteine, what observation would you expect when altering the concentration of HAuCl4 and the reduction rate?\n\nGiven options:\nA. The alteration would lead to a complete transformation into spherical nanoparticles with no relation to the initial rhombic dodecahedron outlines.\nB. Variations in the facet structure and size of the central pit in particles would be observed, leading to different degrees of concavity and completeness of rhombic facets, influencing the overall structure.\nC. The adjustment would cause the Au nanoplates to maintain their initial shape, with no observable changes in the facet structure or size of the central pit.\nD. The experiment would result in a uniform size increase of the Au nanoplates without any change in their flatness or concavity.\n",
+            "answer": "B",
+            "predicted": "Answer: ##B##",
+            "predicted_choice": "B"
+        }
+    ],
+    "correct_answers": [
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing ligand binding patterns on Gold Nano-Bipyramids (AuNBPs) with low ligand coverage, what was the predominant observation regarding the ligand binding behavior?\n\nGiven options:\nA. Ligands bind predominantly to sharp tips due to high surface energy, leading to growth redirection.\nB. Ligands bind indiscriminately across the entire surface due to uniform surface energy, leading to isotropic growth.\nC. Ligands fail to bind to the bipyramids as the surface energy is too low to facilitate attachment, resulting in no growth change.\nD. Ligands bind preferentially to the base of the bipyramids due to low surface energy, resulting in elongated growth.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment analyzing growth under full ligand coverage with AuNBPs (Gold Nanobipyramids) that are fully covered by ligands, where is the growth predominantly observed and why?\n\nGiven options:\nA. Growth predominantly occurs at the tips due to larger ligand gaps.\nB. Growth predominantly occurs at the base due to larger ligand gaps.\nC. Growth predominantly occurs at the tips due to smaller ligand gaps.\nD. Growth predominantly occurs uniformly across the surface due to even ligand distribution.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving AuNBPs with an initial ligand concentration of AMBI at 4.0 \u03bcM, the ligand concentration was dramatically increased to 120 \u03bcM to study nonwetting growth conditions. What observation was most likely reported in this scenario?\n\nGiven options:\nA. Formation of spherical islands mostly at high-curvature axial tips (90%) and some at equatorial corners (10%).\nB. Formation of spherical islands mostly at low-curvature axial tips (90%) and some at equatorial corners (10%).\nC. Uniform distribution of spherical islands across the entire surface of the AuNBPs.\nD. Formation of elongated islands primarily at the base of the AuNBPs with negligible occurrences at the tips or corners.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the effects of variable concentrations on the system AuNBPs with the ligand AMBI, what was the observation when the concentration range was intermediate, between low and high extremes?\n\nGiven options:\nA. Complete inhibition of nanostructure formation.\nB. Formation of a highly selective single nanostructure type.\nC. Formation of a mixture of nanostructures, indicating less selective growth.\nD. No observable change in the nanostructure formation process.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating site-specific gold deposition, octahedral and concave rhombic dodecahedral gold seeds were used as the system. The method involved tuning ascorbic acid concentration, and the variable adjustments included adjusting the chemical potential (\u2206\u03bc) relative to nucleation energy. Which observation would be expected from these specific conditions?\n\nGiven options:\nA. No gold deposition due to the absence of ascorbic acid.\nB. Selective gold deposition on corners or edges achieved by adjusting chemical potential.\nC. Uniform gold deposition across the entire surface of the seeds.\nD. Formation of an amorphous gold layer due to uncontrolled nucleation.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the facet-selective nucleation in gold nanorods with alternating {100} and {110} facets, researchers adjusted the chemical potential-energy relationship to exploit differences in surface energy of the facets. What observation would you expect if the selective growth occurred on the higher energy facets at a given chemical potential?\n\nGiven options:\nA. Selective growth on higher energy facets ({110} over {100}) at given chemical potential.\nB. Uniform growth on both {100} and {110} facets regardless of chemical potential.\nC. No growth on either {100} or {110} facets despite adjustments in chemical potential.\nD. Selective growth on lower energy facets ({100} over {110}) at given chemical potential.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the multicomponent nanocrystal (NC) growth, a system was set up for the corner- or edge-selective growth of silver (Ag) or palladium (Pd) onto gold (Au) NC seeds. The method aimed to achieve controlled growth of different metals on specific Au NC sites. Based on the conditions provided, which observation would be expected from this experiment?\n\nGiven options:\nA. Complete lack of Ag or Pd attachment to the gold NCs, suggesting an ineffective growth method.\nB. Uniform coating of Ag or Pd over the entire surface of the gold NCs, showing non-discriminative growth.\nC. Ag or Pd selectively grown on specific sites of gold NCs, demonstrating controlled, site-specific growth.\nD. Ag or Pd randomly distributed across the surface of gold NCs, indicating non-selective growth.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of heterogeneous metallic nanocrystals (HMNCs) using galvanic replacement reaction and underpotential deposition (UPD), gold nanocrystals (Au NCs) were used as the substrate for bimetallic satellite nanocrystals (AgPd NCs). The method focused on manipulating spatial arrangement and electron distribution to achieve selective deposition. What was the observed outcome when the spatial arrangement of AgPd NCs relative to Au NCs was varied?\n\nGiven options:\nA. AgPd NCs formed a uniform coating over the entire surface of Au NCs, resulting in fully encapsulated HMNCs.\nB. AgPd NCs were randomly distributed on the surface of Au NCs without any preference for specific sites.\nC. AgPd NCs selectively deposited on specific sites (corners or edges) of Au NCs, forming corner- or edge-satellite HMNCs.\nD. AgPd NCs did not adhere to the Au NCs, resulting in no formation of HMNCs.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the shape tuning of central nanocrystals (NCs) within heterometallic nanocrystals (HMNCs), researchers adjusted the geometry of central gold (Au) NCs and electron generation kinetics to create HMNCs with various polyhedral shapes of central NCs. What was the observed outcome when modifying the polyhedral shape of central Au NCs and their reaction with silver-palladium (AgPd) NCs under these conditions?\n\nGiven options:\nA. The creation of HMNCs with a fixed architecture, resulting in the loss of the geometric shape of central Au NCs after satellite NC deposition.\nB. The creation of HMNCs with different architectures by preserving the geometric shape of central Au NCs during satellite NC deposition.\nC. The creation of HMNCs with similar architectures by altering the geometric shape of central Au NCs independently of satellite NC deposition.\nD. The creation of HMNCs with uniform architectures, disregarding the geometric shape of central Au NCs during satellite NC deposition.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving HMNCs with tailored shapes of satellite NCs, researchers aimed to modify the shape of satellite NCs without altering their deposition sites on central NCs. They achieved this by modifying reaction conditions to alter NC surface strain and reaction kinetics. What was the observed outcome of this shape tuning of satellite NCs?\n\nGiven options:\nA. Satellite NCs developed distinct morphologies, such as being bound by {100} or {111} facets, while maintaining their specific deposition sites.\nB. The central NCs changed their shapes instead of the satellite NCs, resulting in a loss of control over the satellite NC morphology.\nC. Satellite NCs lost their ability to maintain specific deposition sites on central NCs due to changes in the reaction conditions.\nD. The shape of satellite NCs remained unchanged despite the modifications in reaction conditions, indicating an unsuccessful experiment.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on HMNCs with size variations, researchers aimed to achieve separate control over the size of central and satellite nanocrystals (NCs) by varying concentration ratios of metal precursors. What observation would indicate that the experiment was successful?\n\nGiven options:\nA. The concentration ratios of metal precursors were varied, but no significant change in the size of HMNCs was observed.\nB. HMNCs with varied sizes were achieved, demonstrating separate control over the size of central and satellite NCs.\nC. The sizes of central and satellite NCs could not be independently altered, leading to a consistent size for all NCs in the system.\nD. The sizes of central and satellite NCs were altered simultaneously, resulting in HMNCs with uniform size distributions.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the synthesis of multi-component heterostructured nanocrystals (HMNCs), specifically a system combining Au, Pd, and AgPd, which observation would be expected if the method involved combining various metallic systems using galvanic replacement reaction and underpotential deposition (UPD), with the goal of integrating different metallic nanocrystals (NCs) to create HMNCs with complex architectures?\n\nGiven options:\nA. Fabricated HMNCs with diverse architectures, combining different NCs in various configurations, were observed as a result of the synthesis process.\nB. The experiment resulted in the formation of single-component NCs, contrary to the intended multi-component system synthesis.\nC. Observation of HMNCs with reduced electrical conductivity was made, suggesting an unexpected outcome from the galvanic replacement reaction and UPD method.\nD. HMNCs with a simple binary structure were observed, indicating a failure in the integration of more than two types of component NCs.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment for the synthesis of edge-satellite HMNCs, a specific method was employed on HMNCs with Pd-coated central NCs. This method involved Pd-coating on Au central NCs followed by Ag and Pd deposition. The variable adjustment made was altering the reactivity of the Ag layer through Pd-coating to achieve edge-satellite deposition. Based on this information, what was the observed outcome of this experimental condition?\n\nGiven options:\nA. HMNCs with satellite NCs encapsulated the Pd-coated central NCs entirely.\nB. HMNCs with satellite NCs selectively deposited along the edges of Pd-coated central NCs were formed.\nC. HMNCs without any satellite NCs were formed due to the lack of Ag and Pd deposition.\nD. HMNCs with satellite NCs were randomly distributed on the surface of Pd-coated central NCs.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of facets in Au nanoparticles, the rate of Au+ reduction was varied. Based on the observed outcomes, which of the following statements correctly describes the correlation between the rate of Au+ reduction and the resulting facet type?\n\nGiven options:\nA. A slower rate of Au+ reduction leads to low-index facets, such as {111}-faceted octahedra.\nB. The rate of Au+ reduction has no significant effect on the type of facets formed in Au nanoparticles.\nC. A faster rate of Au+ reduction results in low-index facets, which are not specified in the given data.\nD. A slower rate of Au+ reduction leads to the formation of high-index facets, such as {111}-faceted octahedra.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on Au nanoparticles, the solubility of Au\u2212halide complexes was observed. If the solubility sequence is [AuCl2]\u2212 > [AuBr2]\u2212 > [AuI2]\u2212, which of the following statements correctly describes the influence of solubility on the reduction rate of Au+ ions?\n\nGiven options:\nA. Decreasing solubility of Au\u2212halide complexes leads to slower Au+ reduction.\nB. The solubility of Au\u2212halide complexes increases the reduction rate of Au+ ions in the order of [AuI2]\u2212 > [AuBr2]\u2212 > [AuCl2]\u2212.\nC. Higher solubility of Au\u2212halide complexes leads to faster Au+ reduction.\nD. Decreasing solubility of Au\u2212halide complexes has no effect on the reduction rate of Au+ ions.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the halide binding strength to the surface of Au nanoparticles, what was the observed effect of increasing halide binding strength on the reduction of Au+ ions?\n\nGiven options:\nA. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) slowed down Au+ reduction due to reduced surface area.\nB. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) increased the reduction rate of Au+ ions due to enhanced electron transfer efficiency.\nC. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) had no significant effect on the reduction rate of Au+ ions.\nD. Increased halide binding strength (order: Cl\u2212 < Br\u2212 < I\u2212) resulted in accelerated Au+ reduction due to increased surface area.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on observing the growth of Au nanoparticles (AuNPs) under the condition of underpotential deposition (UPD) of silver (Ag), what observation was made regarding the behavior of Ag deposition?\n\nGiven options:\nA. Ag deposition occurred even when ascorbic acid could not effectively reduce Ag+.\nB. Ag deposition was enhanced by the effective reduction of Ag+ by ascorbic acid.\nC. Ag deposition did not occur due to the absence of ascorbic acid.\nD. Ag deposition was completely inhibited by the UPD controlled environment.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Au nanoparticles in the presence of Ag+ and halides, how does the solubility of Ag\u2212halide complexes influence the amount of Ag+ available for reduction?\n\nGiven options:\nA. The solubility of Ag\u2212halide complexes has no influence on the amount of Ag+ available for reduction, and does not affect the Ag coverage on Au nanoparticles.\nB. Decreasing solubility of Ag\u2212halide complexes (AgCl > AgBr > AgI) leads to less Ag+ reduction and lower Ag coverage on Au, affecting the amount of Ag+ available for reduction.\nC. Higher solubility of Ag\u2212halide complexes leads to more Ag+ reduction and greater Ag coverage on Au, increasing the amount of Ag+ available for reduction.\nD. Decreasing solubility of Ag\u2212halide complexes (AgI > AgBr > AgCl) leads to more Ag+ reduction and greater Ag coverage on Au, affecting the amount of Ag+ available for reduction.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Ag UPD controlled Au nanoparticles, what observation is made when Ag preferentially binds to facets with more exposed atoms?\n\nGiven options:\nA. The Ag binding leads to an increased growth rate of the Au nanoparticles without any change in shape.\nB. The Ag binding has no significant effect on the Au nanoparticles, allowing for uncontrolled growth and shape.\nC. Ag binding results in selective passivation of facets, impacting the shape and reduction rate of the Au nanoparticles.\nD. Ag binding causes a uniform acceleration of reduction across all facets, leading to isotropic growth of the Au nanoparticles.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Au nanoparticles (AuNPs) under the condition where silver (Ag) undergoes underpotential deposition (UPD) on the Au surface, which observation correlates with the influence of Ag binding to the Au surface?\n\nGiven options:\nA. The binding of Ag to the Au surface has no significant effect on the kinetics of Au+ reduction.\nB. The binding of Ag to the Au surface enhances the rate of Au+ reduction, leading to rapid growth of AuNPs.\nC. The binding of Ag to the Au surface results in an overall slow rate of Au+ reduction at all Ag+ concentrations due to Ag surface coverage, affecting the kinetics of Au+ reduction.\nD. The binding of Ag to the Au surface causes immediate precipitation of AuNPs, independent of the Ag+ concentration.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving noble-metal nanocrystals, a facet-selective capping method was employed using the capping agent PVP on Ag. The purpose of the experiment was to observe the growth of AuNPs. Based on the conditions provided, what observation would you expect to be reported?\n\nGiven options:\nA. The capping agent PVP on Ag has no influence on the growth rates of different facets, resulting in isotropic growth.\nB. The growth rate of {100} facets slows down, leading to the formation of nanocubes or five-fold-twinned nanorods.\nC. The capping agent PVP on Ag enhances the dissolution of AuNPs, preventing the formation of any distinct shapes.\nD. The growth rate of {111} facets accelerates, leading to the formation of nanospheres.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of noble-metal nanocrystals using facet-selective capping as the method, what is the expected observation when halide ions are employed as capping agents on metals such as Ag, Pd, Pt, and Rh?\n\nGiven options:\nA. The halide ions induce the formation of structures with a high surface area to volume ratio, such as nanospheres or nanostars, without any facet selectivity.\nB. The halide ions cause the formation of structures mainly enclosed by {111} facets, resulting in octahedra or tetrahedra due to uniform adsorption on all facets.\nC. The halide ions prevent the formation of any nanocrystalline structures, leading to an amorphous metal deposition.\nD. The halide ions promote the formation of structures mainly enclosed by {100} facets such as cubes, bars, or rods due to selective adsorption onto specific facets.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of noble-metal nanocrystals using facet-selective capping, what observation is expected when citrate binding on Ag and Pd influences the differential binding to crystallographic facets?\n\nGiven options:\nA. Leads to the formation of amorphous structures without any distinct crystallographic facets.\nB. Promotes the formation of structures with a large portion of {100} facets like cubes and rods.\nC. Facilitates formation of structures with a large portion of {111} facets like octahedrons and thin plates.\nD. Encourages the formation of structures with a large portion of {110} facets like rhombic dodecahedrons and wires.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving bimetallic Pd-Pt nanocrystals, a facet-selective capping method was employed using oxalate as a capping agent specifically for {111} facets. What was the observed outcome of this experimental condition?\n\nGiven options:\nA. The synthesis of bimetallic tetrahedrons enclosed by {111} facets.\nB. The synthesis of monometallic nanospheres without any facet stabilization.\nC. The synthesis of bimetallic tetrahedrons enclosed by {100} facets.\nD. The synthesis of bimetallic cubes enclosed by {110} facets.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanocrystals, a facet-selective capping method was employed using CTAC as a capping agent. The purpose of the experiment was to observe the growth of the AuNPs facets. What was the observed outcome when CTAC influenced the binding to high-index facets?\n\nGiven options:\nA. Formation of Au cubic nanocrystals with smooth surfaces.\nB. Generation of Au nanorods as a result of preferential growth along the c-axis.\nC. Formation of Au concave trisoctahedrons due to selective binding to high-index facets.\nD. Development of Au spherical nanoparticles with uniform size distribution.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanocrystals with underpotential deposition (UPD) of Ag, what observation is expected when Ag is deposited on specific facets of Au to modulate growth rates along different crystallographic directions?\n\nGiven options:\nA. Formation of Au spherical nanoparticles with uniform size distribution.\nB. Formation of Au nanorods due to unidirectional growth.\nC. Formation of Au concave nanocubes enclosed by high-index {720} facets.\nD. Formation of Ag dendritic structures on the surface of Au nanocrystals.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanocrystals with underpotential deposition (UPD), researchers observed a morphological transition after altering the experimental conditions. Which of the following changes to the experimental setup would result in the observation of Au nanocrystals transitioning from concave cubes to tetrahexahedrons enclosed by high-index {037} facets?\n\nGiven options:\nA. Replacement of CTAC with CTAB and the influence of Cl- ions on the Au surface, without changing the binding affinity and UPD behavior.\nB. Keeping CTAC constant and not introducing any Cl- or Br- ions, while observing the AuNPs growth without changing the binding affinity and UPD behavior.\nC. Replacement of CTAC with CTAB and the impact of Cl- and Br- ions on the Au surface, while changing the binding affinity and UPD behavior.\nD. Maintaining CTAC and observing the impact of Br- ions on the Au surface, while changing the binding affinity and UPD behavior.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of seed-mediated growth of gold nanorods, what is the observed effect of adding silver nitrate to the system during the experiment focused on observing the AuNPs growth?\n\nGiven options:\nA. Silver nitrate addition increases the size of the gold nanorods but does not influence their shape or crystallinity.\nB. Silver nitrate addition dramatically affects the final shape and crystalline structure of gold nanorods.\nC. Silver nitrate addition changes the color of the gold nanorods without affecting their shape or crystallinity.\nD. Silver nitrate addition has no observable effect on the shape or crystallinity of gold nanorods.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of the seed-mediated growth method for synthesizing gold nanorods, which of the following statements accurately reflects the observed influence of the amount of seed added to the growth solution on the aspect ratio of the resulting nanorods?\n\nGiven options:\nA. Decrease in seed amount has no significant effect on the aspect ratio of gold nanorods, as it does not influence the shape of the nanoparticles.\nB. The amount of seed added to the growth solution does not influence the aspect ratio but instead affects the overall size of the gold nanorods.\nC. Increasing the seed amount leads to a higher aspect ratio of gold nanorods, promoting isotropic growth over nanorod formation.\nD. Decrease in seed amount favors nanorod formation over isotropic growth, thereby controlling the aspect ratio of gold nanorods.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanoplates, what was the observed effect on the yield and facet growth when KI was added at pH 4?\n\nGiven options:\nA. Increased yield of gold nanorods by inhibiting growth of {100} facets.\nB. Decreased yield of gold nanoplates by promoting growth of {111} facets.\nC. Decreased yield of gold nanorods by promoting growth of {100} facets.\nD. Increased yield of gold nanoplates by inhibiting growth of {111} facets.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving a single-crystal seed of an fcc metal, capping agents were introduced as a method to influence the metal's structure. The selective binding of these capping agents to specific facets was expected to alter the order of surface free energies and growth rates. What observation would be consistent with the conditions of this experiment?\n\nGiven options:\nA. The introduction of capping agents had no discernible effect on the fcc metal, and the crystal structure remained unchanged.\nB. Introduction of capping agents leads to the formation of nanocrystals with specific shapes like nanocubes enclosed by {100} facets or octahedrons enclosed by {111} facets.\nC. The fcc metal transformed into a bcc metal upon the introduction of capping agents, demonstrating a change in the crystal lattice structure.\nD. Introduction of capping agents led to the formation of nanocrystals with random shapes, showing no preference for specific facets.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of metal nanocrystals using surface diffusion during synthesis, what is the expected observation when the process is characterized by inadequate surface diffusion?\n\nGiven options:\nA. The nanocrystals undergo a phase transition resulting in altered chemical properties.\nB. The nanocrystals are trapped in thermodynamically less favorable shapes due to the formation of kinetic products with non-equilibrium shapes.\nC. The nanocrystals exhibit enhanced electrical conductivity unrelated to their shape.\nD. The nanocrystals achieve equilibrium shapes that are thermodynamically favorable.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the process of metal nanocrystals synthesis via a reduction route, when precursor compounds in higher oxidation states are directly converted into nuclei, what is the observed phenomenon regarding the formation of nuclei?\n\nGiven options:\nA. Precursor compounds remain in a higher oxidation state and do not contribute to the growth of nanocrystals.\nB. Precursor compounds reduce to a zero-valent state before aggregating into larger particles, which then form the nuclei of nanocrystals.\nC. Precursor compounds can directly convert into nuclei and merge with other precursor-based nuclei or growing nanocrystals, bypassing a zero-valent state.\nD. Precursor compounds convert into nuclei by first forming a zero-valent state and then merging with other nuclei.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the autocatalytic growth of metal nanocrystals, what observation is made when a mild reducing agent is used in conjunction with a high concentration of precursor?\n\nGiven options:\nA. The growth of metal nanocrystals is unaffected by the concentration of the precursor or the presence of a reducing agent.\nB. The growth of metal nanocrystals is decelerated, resulting in a slower enlargement of nanocrystals.\nC. The growth of metal nanocrystals is inhibited, leading to smaller nanocrystal sizes.\nD. The growth of metal nanocrystals is accelerated, facilitating rapid enlargement of nanocrystals.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of first-principles molecular dynamics simulations studying metal nanocrystals via reduction, which of the following best describes the observed autocatalytic growth mechanism?\n\nGiven options:\nA. Autocatalytic growth is facilitated by preferential electron transfer to dimeric and trimeric units, bypassing the direct reduction of monomeric precursors.\nB. Autocatalytic growth is facilitated by equal electron transfer to monomeric, dimeric, and trimeric units, resulting in uniform nanocrystal growth.\nC. Autocatalytic growth occurs exclusively through the direct reduction of monomeric precursors, without the involvement of dimeric or trimeric units.\nD. Autocatalytic growth is hindered by preferential electron transfer to monomeric precursors, leading to a decrease in nanocrystal growth.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment studying regioselective passivation involving Gold Nanorods and Nanobipyramids, when thiol-ended poly(ethylene glycol) (PEG) is used as a ligand at relatively low concentrations, what is the observed effect on the growth of these nanostructures?\n\nGiven options:\nA. Strong ligands bind to low-curvature sites, promoting uniform growth across the nanostructures.\nB. Strong ligands do not bind to the nanostructures, resulting in no significant change in growth patterns.\nC. Strong ligands bind to high-curvature sites (corners, edges), diverting subsequent growth to other sites.\nD. Strong ligands bind indiscriminately to all sites, leading to uncontrolled growth of the nanostructures.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au decahedrons and Nanoplates with Thiol-ended PEG ligands and controlled Au0 oversaturation, what observation was made regarding the site-specificity of selective deposition?\n\nGiven options:\nA. No selective deposition was observed; instead, ligand packing density was found to be uniform across all curvature sites.\nB. Selective deposition on high-curvature sites was facilitated by sparser ligand packing at these sites.\nC. Selective deposition occurred uniformly across all sites, unaffected by ligand packing density.\nD. Selective deposition was observed on low-curvature sites due to denser ligand packing at these sites.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the \"Embedding in Metal Shells study\" involving Gold Nanoparticles (AuNPs) and Thiol-ended DNA Molecules, what observation was made regarding the interaction between the ligands and the metal layers?\n\nGiven options:\nA. Thiol-ended DNA molecules repelled the metal layers, preventing any ligands from being sandwiched between them.\nB. Thiol groups, being weak ligands, failed to anchor, resulting in the absence of ligands between metal layers.\nC. Strong ligands like thiol groups anchor firmly, leading to sandwiched ligands between metal layers.\nD. Hydroxyl groups, serving as ligands, formed unstable bonds, causing the ligands to detach from the metal layers.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of a Substrate-Assisted Growth study of Ultrathin Gold Nanowires (AuNWs) using 4-Mercaptobenzoic Acid (4-MBA) as the ligand on an Amine-Functionalized Oxide Surface, what observation was made regarding the relationship between the NW width and the experimental conditions?\n\nGiven options:\nA. NW width was observed to be independent of the seed size, but influenced by the Au reduction rate and ligand inhibition, resulting in a uniform diameter.\nB. NW width was determined to be variable and dependent on the ligand type, with no significant influence from the Au reduction rate or seed size.\nC. NW width was noted to be influenced by the substrate type, with the seed size and Au reduction rate having negligible effects on the uniformity of the diameter.\nD. NW width was found to be directly proportional to the size of the seed, unaffected by the rate of Au reduction or ligand activity.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment titled \"Colloidal Synthesis in Ultralong Au Nanohelices,\" researchers observed the formation of ultralong nanohelices with extraordinary aspect ratios. These nanohelices were synthesized under specific conditions. Which of the following options correctly describes the conditions under which the observed ultralong Au nanohelices with extraordinary aspect ratios were formed?\n\nGiven options:\nA. The nanohelices were formed in a system using a different ligand type, influenced by growth environment in metal\u2212ligand complex floccules.\nB. The nanohelices were formed in a system using freshly prepared 4-MBA as the ligand type.\nC. The nanohelices were formed in a system using aged 4-MBA as the ligand type, without any specified influence on the growth environment.\nD. The nanohelices were formed in a system using aged 4-MBA as the ligand type, influenced by the presence of metal\u2212ligand complex floccules.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the etching process of Silver Nanostructures, Polyvinylpyrrolidone (PVP) was used as a ligand. What was the observed effect of using PVP-protected surfaces on the etching process?\n\nGiven options:\nA. PVP-protected surfaces caused complete inhibition of the etching process, preventing the formation of any nanostructures.\nB. PVP-protected surfaces led to non-selective etching, resulting in uniform nanostructures with increased high-curvature regions.\nC. PVP-protected surfaces had no significant effect on the etching process, and the nanostructures remained unchanged.\nD. PVP-protected surfaces lead to selective etching, forming intricate nanostructures with reduced high-curvature regions.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB with a standard seed concentration of 50 \u03bcL, what observation would be expected based on the provided experimental conditions?\n\nGiven options:\nA. Formation of spherical nanoparticles with a uniform size distribution of approximately 50 nm in diameter.\nB. Formation of hexagonal-twinned nanorods with variable lengths and widths, showing no specific facet coverage.\nC. Formation of irregularly shaped nanoparticles with no specific facet orientation.\nD. Formation of perfect pentagonal-twinned nanorods with average length 46 \u00b1 7 nm and width 43 \u00b1 4 nm, covered with (100) facets at sides and (111) facets at ends.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB, a dramatic change in morphology was observed when the seed concentration was set to the minimally possible amount (1 \u03bcL, 1% of standard). This change was characterized by the appearance of random cone-like spikes and the absence of pentagonal twinning, indicating a complete switch in growth mode. Based on these conditions and observations, which of the following statements is correct?\n\nGiven options:\nA. A higher than standard seed concentration of Au decahedra in CTAB was used, leading to the absence of pentagonal twinning in the Au Nanorods.\nB. The minimally possible seed concentration of Au decahedra in CTAB led to a dramatic change in morphology, with the appearance of random cone-like spikes and the absence of pentagonal twinning in the Au Nanorods.\nC. The use of a non-CTAB seed solution at a minimally possible concentration resulted in the standard morphology of Au Nanorods with pentagonal twinning.\nD. The standard seed concentration of Au decahedra in CTAB typically results in the formation of cone-like spikes on Au Nanorods.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, a monolayer of ligands was used to cover the Au Nanowires, which were synthesized through the preparation of oleylamine-stabilized ultrathin Au nanowires via reduction, followed by purification. The initial aggregation state of the nanowires was in parallel bundles within a polar phase. During the experiment, Palladium (Pd) was deposited onto the Au nanowires through the reduction of Na2PdCl4 using L-ascorbic acid. What observation would indicate a successful deposition of Pd onto the Au nanowires and the resultant formation of nanoropes?\n\nGiven options:\nA. The solution's color remained light pink, and the nanowires maintained their initial parallel bundle structure without forming nanoropes.\nB. The solution's color remained light pink, but the nanowires transformed from parallel bundles into intricate helical patterns, indicating the formation of nanoropes.\nC. The solution's color transitioned from light pink to dark brown, indicative of successful Pd deposition on Au nanowires. Resultant formation of nanoropes from initial nanowire bundles; the transformation was marked by a shift from parallel stripes to intricate helical patterns, demonstrating a complex twisting behavior.\nD. The solution's color transitioned from light pink to dark brown, and the nanowires maintained their initial parallel bundle structure without forming nanoropes.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) stabilized with a monolayer of ligands into nanoropes, which observation correlates with the initial condition where the nanowires were aggregated into parallel bundles in a polar phase and subjected to a variation in pitch length relative to the thickness of the nanoropes?\n\nGiven options:\nA. An increase in pitch length proportional to the increase in nanorope thickness was noted, ranging from approximately 35 nm in two-strand helices to up to 160 nm in thicker nanoropes, indicating a lower degree of deformation in each strand for thicker nanoropes.\nB. A decrease in pitch length proportional to the increase in nanorope thickness was observed, suggesting a higher degree of deformation in each strand for thicker nanoropes.\nC. The pitch length remained constant regardless of the nanorope thickness, implying that the twisting process does not affect the structural integrity of the nanowires.\nD. The pitch length and nanorope thickness were inversely proportional, with thinner nanoropes exhibiting longer pitch lengths, contrary to the expected physical limits of the strands.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment involving the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using a colloidal nanoparticle synthesis system, complete ligand coverage was achieved using 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA). The initial conditions included incubating citrate-stabilized Au nanoparticle seeds with MBIA at 60 \u00b0C for 2 hours, followed by cooling and the addition of hydroquinone and AgNO3. The rate of AgNO3 addition was varied using a syringe pump. Which of the following observations correctly correlates with the condition where AgNO3 was added at a rate of 3.75 \u03bcL/min?\n\nGiven options:\nA. The formation of spherical and elongated Ag domains was predominant, suggesting a rapid addition rate of AgNO3.\nB. The addition of AgNO3 at this rate resulted in the exclusive formation of Ag plates, with no evidence of nanowire or spherical domain structures.\nC. Nearly 100% of seeds formed nanowires, indicating a lack of ligand control over the nanostructure formation.\nD. 82% of seeds formed nanowires, demonstrating increased ligand control at slower AgNO3 addition rates leading to the formation of specific nanostructures.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using citrate-stabilized Au nanoparticles as seeds, which were incubated with 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA) at 60 \u00b0C for 2 hours and then cooled before the addition of hydroquinone and AgNO3, what observation was made when sodium citrate was added at different concentrations 30 minutes after starting the AgNO3 addition?\n\nGiven options:\nA. The addition of sodium citrate at low concentrations (0.12, 0.3 mM) resulted in the formation of nearly spherical domains, while a high concentration (1.16 mM) led to the formation of faceted Ag nanoplates at the end of nanowires.\nB. The addition of sodium citrate at concentrations of 0.12, 0.3, and 1.16 mM resulted in the formation of nearly spherical domains at all concentrations.\nC. The addition of sodium citrate at a concentration of 1.16 mM led to the formation of nearly spherical domains at the end of nanowires.\nD. The addition of sodium citrate at low concentrations (0.12, 0.3 mM) resulted in the formation of faceted Ag nanoplates at the end of nanowires.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. The synthesis method included the synthesis of AuNBPs followed by incubation with varied concentrations of 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. What observation would you expect if the AMBI concentration was adjusted to 4.0 \u03bcM?\n\nGiven options:\nA. Complete dissolution of AuNBPs with no observable axial tips or equatorial corners remaining.\nB. Nonuniform over-coating with bulging in the middle section, long axis unchanged, and an increase in equatorial width, formation of 'nonwetting' boundaries near tips.\nC. Uniform over-coating with no change in the long axis or equatorial width, maintaining wetting boundaries near tips.\nD. Formation of additional nano-bipyramids with no significant change to the original AuNBPs structure.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the controlled growth of Gold Nanocrystals (Au NCs) using a seed-mediated growth strategy, where the initial seeds were Triangular nanoprisms, Octahedral seeds, Concave rhombic dodecahedral seeds, and Decahedral seeds, and the nanocrystals were functionalized with mPEG6 disulfide, what observation would you expect after adjusting the chemical potential (\u2206\u03bc) of the growth solution using ascorbic acid concentration?\n\nGiven options:\nA. Formation of an amorphous gold layer around the seeds, leading to the loss of the initial seed shapes.\nB. Uniform growth across all facets of the nanocrystal seeds without any site specificity.\nC. Dissolution of the initial seeds without any subsequent growth due to the over-reduction of the gold ions.\nD. Selective site-specific deposition resulting in growth preferentially at corners of seeds like octahedral and concave rhombic dodecahedral gold seeds, and growth predominantly at edges of seeds.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the controlled growth of Gold Nanocrystals (Au NCs) using a seed-mediated growth strategy, where the initial seeds were Triangular nanoprisms, Octahedral seeds, Concave rhombic dodecahedral seeds, and Decahedral seeds, and the nanocrystals were functionalized with mPEG6 disulfide, what observation would you expect when varying the CTAB concentration in the growth solution?\n\nGiven options:\nA. Increasing the CTAB concentration results in the exclusive growth of {111} facets, regardless of the chemical potential differences (\u2206\u03bc).\nB. The CTAB concentration affects the size of the nanocrystals but does not influence the exposure of specific crystal facets.\nC. The variation of CTAB concentration has no discernible effect on the nanocrystal growth or the exposed facets.\nD. Higher CTAB concentration leads to the exposure of high-energy surfaces ({100} facets) due to higher chemical potential differences (\u2206\u03bc), while lower CTAB concentration favors the exposure of lower-energy surfaces ({111} facets) at lower \u2206\u03bc.\n",
+            "answer": "D",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Au\u2013Ag Nanoparticles through colloidal growth with ligand incubation and Ag reduction, 70 nm citrate-stabilized Au nanoparticles were initially used. The ligand 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) and the reductant Hydroquinone (HQ) were introduced, and the mixture was incubated at a temperature range of 60\u2013100\u00b0C. If the incubation time with MBIA at 60\u00b0C was increased up to 15 hours, which of the following observations would be consistent with the condition-observation correlation described in the experiment records?\n\nGiven options:\nA. A slight increase in valency of core\u2013satellite structures, with 52% Janus nanoparticles and 48% trimers; among trimers, 57% roughly straight (Ag\u2013Au\u2013Ag angle \u2265 120\u00b0), 43% more asymmetric (angle < 120\u00b0).\nB. No change in the nanoparticle structures, with the majority being citrate-stabilized Au nanoparticles and no formation of Janus nanoparticles or trimers.\nC. The complete conversion of Au nanoparticles into Ag nanoparticles with no evidence of core\u2013satellite structures or Janus nanoparticles.\nD. A significant decrease in the size of the Au nanoparticles and the formation of 80% Janus nanoparticles with the remaining 20% being dimers.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag nanoparticles, 70 nm citrate-stabilized Au nanoparticles were used as seeds. The synthesis method included ligand incubation with 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) and Ag reduction using Hydroquinone (HQ) at an incubation temperature range of 60\u2013100\u00b0C. During the process, the concentration of NaOH was varied. Based on the conditions provided, which observation correctly correlates with the alteration of NaOH concentration?\n\nGiven options:\nA. Increase in product valency with decreasing NaOH concentration, accompanied by the dispersion of Ag islands into individual nanoparticles.\nB. No change in product valency regardless of NaOH concentration, with Ag islands remaining consistently dispersed.\nC. Increase in product valency with increasing NaOH concentration, leading to the formation of a continuous shell due to the merging of crowded small Ag islands.\nD. Decrease in product valency with increasing NaOH concentration, resulting in fewer Ag islands per seed.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag Nanoparticles with ligand incubation and Ag reduction, 70 nm citrate-stabilized Au nanoparticles were used as initial seeds. The ligand employed was 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA), and Hydroquinone (HQ) served as the reductant. The incubation temperature range was set between 60\u2013100\u00b0C. When seeds of different sizes (15, 25, and 70 nm) were introduced, what was the observed effect on the growth process and the required adjustment to the synthesis conditions?\n\nGiven options:\nA. Uniform single-island growth was observed on seeds of various sizes; no adjustment to NaOH concentration was necessary. Different average valencies for different seed sizes were reported.\nB. Multi-island growth was achievable on seeds of various sizes; higher NaOH concentration was needed for smaller seeds. The size of Ag islands was similar across all seeds.\nC. Multi-island growth was inhibited on seeds of various sizes; lower NaOH concentration was needed for larger seeds. The size of Ag islands varied significantly across all seeds.\nD. Multi-island growth was achievable on seeds of various sizes; lower NaOH concentration was needed for larger seeds. The size of Ag islands was similar across all seeds, but the valency of the nanoparticles decreased with increasing seed size.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the transformation of Au nanoplates into concave nanostructures through epitaxial growth from triangular nanoplate, combining ligand-promoted facet-selective growth and site-specific deposition, and influenced by ligands, particularly L-cysteine, what observation would you expect if the reaction mixture contained CTAB (10 mM), HAuCl4 (0.15 mM), L-ascorbic acid (0.33 mM), and L-cysteine (0.08 mM), given that the system is Au nanoparticles with rhombic dodecahedron outlines and deep cavities?\n\nGiven options:\nA. Formation of hexagonal bowls with triangular cavities, average edge length 220 nm, thickness about 180 nm.\nB. Formation of spherical nanoparticles with an average diameter of 220 nm.\nC. Formation of flat triangular nanoplates with no significant concavity or depth.\nD. Formation of cubic structures with smooth surfaces and no cavities.\n",
+            "answer": "A",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the transformation of Au nanoplates into concave nanostructures through epitaxial growth from triangular nanoplates, which combined ligand-promoted facet-selective growth and site-specific deposition, the influence of ligands, particularly L-cysteine, was studied without specific mention of initial aggregation. When the concentration of L-cysteine was varied, what was the observed effect on the Au nanoparticles with rhombic dodecahedron outlines and deep cavities?\n\nGiven options:\nA. Adjusting the L-cysteine concentration caused the nanoparticles to transform into perfect rhombic dodecahedrons without any concave features.\nB. The change in L-cysteine concentration resulted in a uniform increase in the size of the nanoparticles without affecting their shape or concavity.\nC. Varying the concentration of L-cysteine altered the facet preference and edge effect, influencing the shape and depth of the concave structures, leading to changes in nanoparticle morphology with different degrees of concavity and facet arrangements.\nD. The concentration of L-cysteine had no discernible effect on the nanoparticle morphology or concavity.\n",
+            "answer": "C",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the transformation of Au nanoplates into concave nanostructures through epitaxial growth from triangular nanoplates, which combines ligand-promoted facet-selective growth and site-specific deposition, and is influenced by ligands, particularly L-cysteine, what observation would you expect when altering the concentration of HAuCl4 and the reduction rate?\n\nGiven options:\nA. The alteration would lead to a complete transformation into spherical nanoparticles with no relation to the initial rhombic dodecahedron outlines.\nB. Variations in the facet structure and size of the central pit in particles would be observed, leading to different degrees of concavity and completeness of rhombic facets, influencing the overall structure.\nC. The adjustment would cause the Au nanoplates to maintain their initial shape, with no observable changes in the facet structure or size of the central pit.\nD. The experiment would result in a uniform size increase of the Au nanoplates without any change in their flatness or concavity.\n",
+            "answer": "B",
+            "predicted_choice": "B"
+        }
+    ],
+    "wrong_answers": [
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of gold nanoprisms (AuNBPs), a specific condition was set where no initial ligand concentration was present, and an AMBI ligand concentration of 2.0 \u03bcM was introduced. The system was subjected to a pretreatment and then observed at a temperature of 60\u00b0C for a duration of 2 hours. Based on these conditions, which of the following observations would be consistent with the outcome of the experiment?\n\nGiven options:\nA. The AuNBPs showed increased etching at the tips, resulting in non-uniform over-coating with significant deposition on the tips.\nB. The AuNBPs exhibited no change in their structure or coating, remaining identical to their state prior to the introduction of the AMBI ligand.\nC. The AuNBPs demonstrated reduced etching at the tips, leading to uniform over-coating with minimal deposition on the tips.\nD. The AuNBPs underwent complete dissolution due to the high temperature and presence of the AMBI ligand.\n",
+            "answer": "C",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth patterns of gold nanoparticle branches (AuNBPs), the initial conditions involved using AMBI at a concentration of 2.0 \u03bcM. The conditions were then adjusted to a concentration of 4.0 \u03bcM of AMBI. Based on these conditions, which of the following observations would be consistent with the outcome of the experiment?\n\nGiven options:\nA. Increased growth at middle segments but with nonuniform coating.\nB. Decreased growth at middle segments with a uniform coating.\nC. No change in growth patterns observed at any segment.\nD. Uniform coating with reduced overall size of AuNBPs.\n",
+            "answer": "A",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment analyzing the growth of AuNBPs under very high ligand concentration, the initial ligand concentration of AMBI was set at 120 \u03bcM. The ligand concentration was then increased to 280 \u03bcM. What observation was made regarding the formation of islands in this adjusted condition?\n\nGiven options:\nA. Island formation shifted, with the majority (90%) occurring at equatorial corners and fewer (10%) at axial tips.\nB. Island formation was evenly distributed between axial tips and equatorial corners.\nC. Island formation was predominantly at the axial tips, with over 90% occurring there and the remainder at equatorial corners.\nD. No significant change in island formation was observed; the distribution remained the same as before the ligand concentration was adjusted.\n",
+            "answer": "A",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving AuNBPs with an initial ligand concentration of AMBI at 280 \u03bcM, the ligand concentration was adjusted to 300 \u03bcM. The purpose of the experiment was to observe nucleation patterns. Which of the following observations would be consistent with the conditions described?\n\nGiven options:\nA. Formation of a single large Au nanoparticle dominating the system.\nB. No change in nucleation patterns despite the increased ligand concentration.\nC. Formation of island growth on AuNBPs and absence of free Au nanoparticles.\nD. Absence of island growth on AuNBPs; instead, homogeneous nucleation of free Au nanoparticles.\n",
+            "answer": "D",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment investigating the Curvature-selective nucleation in triangular gold nanoprisms, where the curvature at corners, edges, and faces was varied to observe differences in ligand distances, what was the observed effect of higher curvature at the corners on the growth process?\n\nGiven options:\nA. Higher curvature at corners had no significant effect on solute access, resulting in uniform growth across corners, edges, and faces.\nB. Higher curvature at corners facilitated solute access, leading to selective growth at edges and faces over corners.\nC. Higher curvature at corners restricted solute access, leading to selective growth at edges and faces over corners.\nD. Higher curvature at corners facilitated solute access, leading to selective growth at corners over edges and faces.\n",
+            "answer": "D",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on investigating the facet exposure control of Gold nanocubes and octahedra, researchers modified the CTAB concentration to achieve control over exposed facets during growth. What was the observed correlation between the chemical potential and the exposed facets of the gold nanostructures?\n\nGiven options:\nA. Variation in exposed facets was inversely related to the chemical potential, with lower potential exposing higher energy facets.\nB. Variation in exposed facets was observed to decrease with an increase in chemical potential, leading to a uniform facet exposure at higher potentials.\nC. Variation in exposed facets was directly correlated with the chemical potential, with higher potential exposing higher energy facets.\nD. Variation in exposed facets was independent of the chemical potential, with random facets being exposed regardless of potential.\n",
+            "answer": "C",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Au nanoparticles with selective surface passivation, what observation would you expect when the system is influenced by the binding of an adsorbate, such as Ag?\n\nGiven options:\nA. Particles exhibit random distribution without preference to any facet due to uniform growth rates.\nB. Particles preferentially bind to non-passivated facets, leading to isotropic growth.\nC. Particles show no significant change in distribution or growth rates despite the presence of an adsorbate.\nD. Particles bound entirely by the passivated facet due to differential growth rates.\n",
+            "answer": "D",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving Ag UPD controlled Au nanostructures, what is the observed effect on the Au nanoparticles (AuNPs) when the amount of Ag deposited on the Au surface is increased?\n\nGiven options:\nA. The increase in Ag deposition enhances the growth of open facets, resulting in more complex and branched shapes of the AuNPs.\nB. Increasing the Ag deposition decreases the overall size of the AuNPs, making them more spherical.\nC. More Ag deposition has no significant effect on the open facets or the shapes of the AuNPs.\nD. The increase in Ag deposition reduces the number of open facets, leading to less diverse shapes in the AuNPs.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment observing the growth of Au nanoparticles with bromide in different pathways, what is the role of bromide and how does it influence the system?\n\nGiven options:\nA. Bromide serves as a reducing agent for Au+ in the kinetic pathway and as a stabilizer for the Au layer in the passivation pathway, with its influence being negligible in both pathways.\nB. Bromide controls the rate of Au+ reduction in the kinetic pathway and influences the stability of the Ag layer in the passivation pathway, with its influence varying between the kinetic and surface passivation pathways.\nC. Bromide provides nucleation sites for Au+ in the kinetic pathway and acts as an oxidizing agent in the passivation pathway, with its influence being more pronounced in the kinetic pathway.\nD. Bromide acts as a catalyst, increasing the rate of Au+ reduction in the kinetic pathway and stabilizing the Ag layer in the passivation pathway, with its influence being constant across both pathways.\n",
+            "answer": "B",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Au nanoparticles with the addition of bromide, how does the presence or absence of Ag+ influence the particle growth rate?\n\nGiven options:\nA. The presence of Ag+ decreases the growth rate of Au nanoparticles with bromide addition.\nB. The presence of Ag+ has no influence on the growth rate of Au nanoparticles with bromide addition.\nC. The presence of Ag+ increases the growth rate of Au nanoparticles with bromide addition, while its absence slows the growth.\nD. The absence of Ag+ increases the growth rate of Au nanoparticles with bromide addition.\n",
+            "answer": "C",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth method for synthesizing gold nanorods, how does varying the CTAB concentration and temperature influence the aspect ratio of the resulting nanoparticles?\n\nGiven options:\nA. CTAB concentration and temperature have no effect on the aspect ratio of gold nanorods.\nB. Lower CTAB concentration and temperature result in shorter aspect ratio nanorods.\nC. Lower CTAB concentration and temperature result in longer aspect ratio nanorods.\nD. Higher CTAB concentration and temperature lead to shorter aspect ratio nanorods.\n",
+            "answer": "B",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanorods, how does the pH of the reaction influence the characteristics of the nanorods according to the experimental observations?\n\nGiven options:\nA. Adjusting the pH to be between 5 and 7 has no significant effect on the reaction time or the length of the nanorods.\nB. Maintaining the pH between 2 and 4 shortens the reaction time and produces shorter nanorods.\nC. Keeping the pH above 6 decreases the reaction time and leads to the formation of longer nanorods.\nD. Controlling the pH between 2 and 4 increases the reaction time, resulting in longer nanorods.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth method for synthesizing gold nanoparticles, how do variations in CTAB and ascorbic acid concentrations influence the shape of the resulting particles?\n\nGiven options:\nA. Low CTAB and low ascorbic acid concentrations lead to the formation of cubic particles, while high CTAB and high ascorbic acid result in octahedra.\nB. High CTAB and low ascorbic acid concentrations lead to the formation of cubic particles, while low CTAB and high ascorbic acid result in octahedra.\nC. High CTAB and high ascorbic acid concentrations lead to the formation of cubic particles, while low CTAB and low ascorbic acid result in octahedra.\nD. Low CTAB and high ascorbic acid concentrations lead to the formation of cubic particles, while high CTAB and low ascorbic acid result in octahedra.\n",
+            "answer": "D",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanorods, what is the observed effect on the morphology when glutathione or cysteine is present in the system?\n\nGiven options:\nA. The presence of glutathione or cysteine has no significant effect on the morphology of the gold nanorods, maintaining their original shape.\nB. The presence of glutathione or cysteine promotes elongation along the longitudinal axis, resulting in a transition from truncated octahedra to peanut-shaped nanorods.\nC. The presence of glutathione or cysteine completely suppresses growth along the longitudinal axis, leading to a morphological change from peanut-shaped to truncated octahedra.\nD. The presence of glutathione or cysteine enhances the three-dimensional growth, resulting in spherical nanoparticles rather than rod-shaped.\n",
+            "answer": "C",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the seed-mediated growth of gold nanoplates, what is the observed effect of using poly(vinyl pyrrolidone) (PVP) and sodium citrate on the crystal formation when observing the growth of Au nanorods?\n\nGiven options:\nA. It enhances the growth of Au nanorods without altering the crystal structure.\nB. It prevents the formation of any crystal structures, leading to amorphous materials.\nC. It results in the formation of multi-crystal nanoplates with uniform dimensions.\nD. It yields single crystal nanoplates with varying dimensions.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the context of seed-mediated growth of gold branched nanostructures, which combination of factors is known to control the gold ion reduction rate, thereby inducing branching in the gold nanostructures?\n\nGiven options:\nA. The ratio of gold salt to seed and the pH level of the solution.\nB. The type of seed material and the duration of the growth process.\nC. The temperature of the reaction and the concentration of the reducing agent.\nD. The seed to gold salt ratio and the amount of reducing agent.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Ag nanocrystals, when PVP and citrate are used as capping agents, what is the observed influence on the crystal growth, and how does it correlate with the differential binding of the capping agents to specific crystal facets?\n\nGiven options:\nA. Both PVP and citrate lead to the selective growth of Ag cubes with {100} facets, as they both preferentially bind to Ag(100).\nB. PVP leads to the selective growth of Ag octahedrons with {111} facets due to its preferential binding to Ag(111), while citrate results in Ag cubes with {100} facets due to its affinity for Ag(100).\nC. Both PVP and citrate result in the formation of Ag octahedrons with {111} facets, since they have a similar affinity for Ag(111).\nD. PVP results in Ag cubes with {100} facets due to its preferential binding to Ag(100), while citrate leads to Ag octahedrons with {111} facets due to its affinity for Ag(111).\n",
+            "answer": "D",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment focused on the growth of Pd nanocrystals, what is the observed effect when Br\u2212 ions are introduced as capping agents in an adequate amount?\n\nGiven options:\nA. The reduction in the overall size of the Pd nanocrystals.\nB. The formation of Pd spheres without any specific facet expression.\nC. The formation of Pd cubes enclosed by {111} facets.\nD. The formation of Pd cubes enclosed by {100} facets.\n",
+            "answer": "D",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of Ag nanocrystals, how does the initial concentration of PVP as a capping agent influence the system when the method involves variation in PVP concentration?\n\nGiven options:\nA. It increases the uniformity of the nanocrystal sizes without affecting the shape or growth rate.\nB. It decreases the time required for the Ag nanocrystals to reach their final size without altering their polyhedral shapes.\nC. It has no significant effect on the shape of the Ag nanocrystals or the growth rate.\nD. It leads to a range of polyhedron shapes, from cubes to octahedrons, and controls the coverage density and growth rate.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment observing the growth of metal nanocrystals via a decomposition route, employing the LaMer mechanism, what is the effect of reducing the concentration of metal atoms in solution below the minimum supersaturation level?\n\nGiven options:\nA. It increases the rate of nucleation, leading to smaller nanocrystals.\nB. It has no significant effect on the nucleation and growth pattern of the nanocrystals.\nC. It causes immediate dissolution of existing nuclei, preventing the formation of nanocrystals.\nD. It halts additional nucleation, leading to the growth of existing nuclei into larger nanocrystals.\n",
+            "answer": "D",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB, the seed concentration was reduced to 20 \u03bcL, constituting 40% of the standard amount used. What observation would be expected from this alteration in the synthesis process?\n\nGiven options:\nA. Increased average size of product nanostructures, but with a drastic increase in the aspect ratio to greater than 2.0.\nB. Increased average size of product nanostructures, average length 77 nm and width of (110) facets 49 nm, with aspect ratio almost unchanged at 1.6-1.7.\nC. No change in the average size of the product nanostructures, but a decrease in the aspect ratio to less than 1.0.\nD. Decrease in the average size of the product nanostructures, with a significant change in the aspect ratio.\n",
+            "answer": "B",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using a seed solution of Au decahedra in CTAB, the seed concentration was greatly reduced to 10 \u03bcL, which is 20% of the standard concentration. What observation would you expect from this alteration in the experimental conditions?\n\nGiven options:\nA. A decrease in the average size of the Au Nanorods, with shorter lengths and narrower widths.\nB. Further increase in average size, average length 110 nm and width of (110) facets 67 nm, with notches at intersecting corners of (100) and (111) facets.\nC. No significant change in the size or shape of the Au Nanorods compared to those synthesized with the standard seed concentration.\nD. Formation of Au Nanorods with uniform dimensions and smooth surfaces without any notches at the corners.\n",
+            "answer": "B",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Gold Nanorods (Au Nanorods) using Au decahedra in CTAB as the seed solution, what observation would you expect if the seed concentration was extremely reduced to 5 \u03bcL, constituting 10% of the standard concentration?\n\nGiven options:\nA. A significant increase in the average size of the nanorods, with an average length of 135 nm and width of (110) facets 80 nm, and larger notches leading to a change in nanorod shape.\nB. The formation of spherical nanoparticles instead of rod-like structures due to the lack of sufficient seed material.\nC. A decrease in the average size of the nanorods, with shorter lengths and narrower widths.\nD. No significant change in the average size, length, or width of the nanorods compared to the standard synthesis procedure.\n",
+            "answer": "A",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, where the nanowires were initially aggregated into parallel bundles in a polar phase and stabilized with a monolayer of oleylamine ligands, what observation was made when manipulating the number of strands in the nanowire bundles?\n\nGiven options:\nA. All nanoropes, regardless of the number of strands, showed a consistent 'fishnet' pattern, indicating uniform mechanical strain distribution.\nB. Thicker nanoropes comprising more than ten strands displayed a 'fishnet' pattern, whereas thinner nanoropes showed double, triple, and quadruple helical structures with uniform curvature.\nC. Thinner nanoropes displayed a 'fishnet' pattern, while thicker nanoropes with more than ten strands showed double, triple, and quadruple helical structures.\nD. Thinner nanoropes with more than ten strands displayed double, triple, and quadruple helical structures, while thicker nanoropes showed a 'fishnet' pattern.\n",
+            "answer": "B",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, the nanowires were initially aggregated into parallel bundles in a polar phase and stabilized with a monolayer of ligands. The synthesis method included the preparation of oleylamine-stabilized ultrathin Au nanowires through reduction, followed by purification. Researchers experimented with both chiral and achiral reductants in the synthesis process. Based on the conditions and observations recorded, which statement correctly reflects the outcome of using different reductants in the formation of helical nanorope structures?\n\nGiven options:\nA. The use of a chiral reductant was essential for the formation of helical nanorope structures, as achiral reductants failed to produce comparable nanoropes.\nB. The chirality of the reductant altered the ligand coverage on the Au nanowires, which in turn affected the twisting of the nanowires into nanoropes, with chiral reductants leading to tighter and more uniform helical structures.\nC. Regardless of the chirality of the reductant used, similar nanorope structures were formed, with achiral hydroquinone producing comparable nanoropes, indicating that the chirality of the reductant is not a determining factor in the formation of the helical structures.\nD. The formation of nanorope structures was only observed when a specific chiral reductant was used, while the use of achiral reductants led to the formation of straight, non-helical nanowires.\n",
+            "answer": "C",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of ultrathin gold nanowires (Au Nanowires) into nanoropes, a monolayer of ligands was used to cover the nanowires, which were initially aggregated into parallel bundles in a polar phase. The nanowires were synthesized through the preparation of oleylamine-stabilized ultrathin Au nanowires via reduction, followed by purification. A systematic screening of various reaction parameters, including different surfactants and Pd precursors, was conducted. What was the primary observation regarding the influence of solvent and pH conditions on the desired synthesis process?\n\nGiven options:\nA. The solvent and pH conditions had no observable effect on the synthesis process, and the nanoropes were formed consistently regardless of these parameters.\nB. Altering the solvent and pH conditions led to an unexpected increase in the rate of Pd reduction, which significantly improved the quality of the nanoropes.\nC. The study found that most variations in solvent and pH conditions were unsuitable for the desired synthesis due to mismatched rates of Pd reduction, indicating that these factors play a less critical role in the synthesis process.\nD. Solvent and pH conditions were found to be the most critical factors in the synthesis process, with only specific combinations leading to successful nanorope formation.\n",
+            "answer": "C",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the twisting of Ultrathin Gold Nanowires (Au Nanowires) into Nanoropes, a monolayer of ligands was applied to the nanowires, which were synthesized through the preparation of oleylamine-stabilized ultrathin Au nanowires via reduction, followed by purification. The initial condition included the aggregation of these nanowires into parallel bundles in a polar phase. A controlled variation in the amount of Pd deposited on the Au nanowires was introduced as an adjustment. What was the observed outcome of this experiment?\n\nGiven options:\nA. The formation of nanoropes with no twisting observed, and a transition from a body-centered cubic (bcc) lattice towards a non-chiral form, suggesting lattice dynamics play a minor role in the structural evolution of the nanoropes.\nB. The formation of nanoropes with varying degrees of twisting and a consistent face-centered cubic (fcc) lattice structure, regardless of the amount of Pd deposited.\nC. The formation of nanoropes with uniform twisting and a consistent hexagonal close-packed (hcp) lattice structure, unaffected by the amount of Pd deposited.\nD. The formation of nanoropes with varying degrees of twisting and a transition from a face-centered cubic (fcc) lattice towards a chiral form, indicating the significance of lattice dynamics in the structural evolution of the nanoropes.\n",
+            "answer": "D",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using citrate-stabilized Au nanoparticles as seeds, which were incubated with 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA) at 60 \u00b0C for 2 hours and then cooled before the addition of hydroquinone and AgNO3, what observation was made when the rate of AgNO3 addition was reduced?\n\nGiven options:\nA. The reduced rates of AgNO3 addition led to an excess of Ag atoms, causing uncontrolled growth and resulting in the formation of irregular nanostructures.\nB. The reduced rates of AgNO3 addition resulted in the complete inhibition of Ag atom formation, preventing the synthesis of the (Ag wire)\u2212(Ag plate) components of the triblock nanostructures.\nC. The reduced rates of AgNO3 addition caused an accelerated growth of the Ag plate, overshadowing the formation of the Au sphere and Ag wire components.\nD. The reduced rates of AgNO3 addition led to limited feeding of Ag atoms, allowing more ligands to bind to the emerging Ag domain, which favored the formation of nanowires and inhibited the growth of some nanoparticles.\n",
+            "answer": "D",
+            "predicted_choice": ""
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In the experiment involving the synthesis of (Au sphere)\u2212(Ag wire)\u2212(Ag plate) triblock nanostructures using citrate-stabilized Au nanoparticles as seeds, which were incubated with 2-mercapto-benzoimidazole-5-carboxylic acid (MBIA) at 60 \u00b0C for 2 hours and then cooled before adding hydroquinone and AgNO3, what was the observed effect of varying the rates of AgNO3 addition and sodium citrate concentration on the morphology of the resulting nanostructures?\n\nGiven options:\nA. Higher rates of AgNO3 addition and sodium citrate concentration resulted in the formation of predominantly (Au sphere)\u2212(Ag plate) structures due to suppressed nanowire growth.\nB. Lower rates of AgNO3 addition and sodium citrate concentration led to nearly 100% nanowire formation due to equivalent growth of Ag islands.\nC. At high AgNO3 rates and citrate concentrations, equivalent growth of Ag islands occurred, leading to nearly 100% nanowire formation.\nD. At lower rates of AgNO3 addition and sodium citrate concentration, the growth dynamics favored the exclusive formation of Ag plates, with no evidence of nanowire or sphere structures.\n",
+            "answer": "C",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. The synthesis method included the synthesis of AuNBPs followed by incubation with 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. When the ligand coverage was adjusted to an AMBI concentration of 2.0 \u03bcM, what observation was made regarding the growth mode and structural changes of the AuNBPs?\n\nGiven options:\nA. The growth mode was selective etching with no change in aspect ratio, leading to major growth on equatorial corners and no significant over-coating on any surfaces.\nB. The growth mode was dendritic with an increase in aspect ratio, resulting in significant etching at the equatorial corners and no observable over-coating.\nC. The growth mode was random with significant etching at the tips, leading to an increase in aspect ratio and substantial growth on the polar tips.\nD. The growth mode was conformal over-coating with inhibition of etching at the tips, resulting in a decrease in aspect ratio, minor growth on polar tips, and mainly over-coating on the sides.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. The synthesis method included the synthesis of AuNBPs followed by incubation with varied concentrations of 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. When the AMBI concentration was adjusted to 120 \u03bcM, what was the observed growth pattern on the AuNBPs?\n\nGiven options:\nA. Uniform growth leading to a smooth coating over the entire surface of the AuNBPs.\nB. Nonwetting growth leading to spherical islands mostly at axial tips, with 90% growth at high-curvature axial tips and 10% at equatorial corners, along with a significant size increase at growth points.\nC. Complete dissolution of the AuNBPs, resulting in the formation of a homogeneous gold solution without any distinct nanostructures.\nD. Preferential growth at the equatorial corners of the AuNBPs, resulting in elongated structures predominantly in the equatorial region.\n",
+            "answer": "B",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), the synthesis method included the synthesis of AuNBPs followed by incubation with 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. If the initial structure of the AuNBPs had uniform axial tips and equatorial corners, and the ligand coverage involved varied concentrations of AMBI, what would be the expected observation when the AMBI concentration is set to 280 \u03bcM?\n\nGiven options:\nA. Uniform growth at both axial tips and equatorial corners, with no presence of organic materials.\nB. Selective binding of floccules at equatorial corners, diverting growth to axial tips. 90% growth at equatorial corners, 10% at axial tips, with the presence of organic materials around equatorial corners.\nC. Selective binding of floccules at axial tips, diverting growth to equatorial corners. 10% growth at axial tips, 90% at equatorial corners, presence of organic materials around axial tips.\nD. No significant growth observed on either axial tips or equatorial corners, with a homogeneous distribution of organic materials around the entire structure.\n",
+            "answer": "C",
+            "predicted_choice": "B"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the regioselective growth on Gold (Au) Nano-bipyramids (AuNBPs), a synthesis method was employed that included the synthesis of AuNBPs followed by incubation with 5-amino-2-mercaptobenzimidazole (AMBI) and CTAB, then reduction with HAuCl4 and L-ascorbic acid. The initial structure consisted of uniform AuNBPs with axial tips and equatorial corners. When the ligand coverage was adjusted to an AMBI concentration of 300 \u03bcM, what was the observed outcome?\n\nGiven options:\nA. Homogeneous nucleation leading to free Au nanoparticles occurred, with no island growth on AuNBPs, resulting in isolated Au nanoparticles formation.\nB. The equatorial corners of the AuNBPs experienced selective deposition, forming a shell-like structure around the bipyramids.\nC. The AuNBPs underwent a morphological change, transforming into Au nanorods due to the high concentration of AMBI.\nD. Regioselective growth occurred on the axial tips of the AuNBPs, leading to anisotropic elongation.\n",
+            "answer": "A",
+            "predicted_choice": "D"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the controlled growth of Gold Nanocrystals (Au NCs) using a seed-mediated growth strategy, the initial seeds were functionalized with mPEG6 disulfide. The goal was to direct the growth specifically on corners, edges, and facets of the nanocrystals. If the initial shapes included Triangular nanoprisms, Octahedral seeds, Concave rhombic dodecahedral seeds, and Decahedral seeds, and the adjustment made was to use nanorods with alternating {100} and {110} facets as seeds, what would be the expected observation regarding facet-selective nucleation and growth?\n\nGiven options:\nA. Selective deposition occurs equally on both {100} and {110} facets due to similar surface energies.\nB. No facet-selective nucleation and growth occur; deposition is random.\nC. Selective deposition on {100} facets over {110} due to lower surface energy.\nD. Selective deposition on {110} facets over {100} due to higher surface energy.\n",
+            "answer": "D",
+            "predicted_choice": "C"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the synthesis of Au\u2013Ag Nanoparticles via colloidal growth with ligand incubation and Ag reduction, researchers started with 70 nm citrate-stabilized Au nanoparticles. They introduced 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) as a ligand and used Hydroquinone (HQ) as a reductant. The incubation was performed at a temperature range of 60\u2013100\u00b0C. If the Au seeds were incubated with MBIA at 60\u00b0C for 2 hours, what was the observed outcome of this specific set of conditions?\n\nGiven options:\nA. No significant change in the Au nanoparticles, maintaining their initial citrate-stabilized state.\nB. Formation of Au\u2013Ag alloy nanoparticles with low purity.\nC. Formation of Au\u2013Ag core-shell nanoparticles with moderate purity.\nD. Formation of Au\u2013Ag Janus nanoparticles with high purity (95.7%), with a single Ag island per Au seed.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag Nanoparticles using 70 nm citrate-stabilized Au nanoparticles as seeds, 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) as the ligand, and Hydroquinone (HQ) as the reductant, what was the observed outcome when the Au seeds were incubated with MBIA at a temperature range of 60\u2013100\u00b0C? Specifically, what were the results when the incubation was conducted at 80\u00b0C and 100\u00b0C for 2 hours?\n\nGiven options:\nA. At 80\u00b0C, the formation of monomers (9.7%), dimers (56%), and trimers (35%) was observed, while at 100\u00b0C, most seeds had 2\u20133 islands.\nB. At 80\u00b0C, the formation of dimers (35%), trimers (56%), and tetramers (9.7%) was observed, while at 100\u00b0C, most seeds had 1\u20133 islands.\nC. At 80\u00b0C, the formation of trimers (9.7%), tetramers (56%), and pentamers (35%) was observed, while at 100\u00b0C, most seeds had 7\u20139 islands.\nD. At 80\u00b0C, the formation of dimers (9.7%), trimers (56%), and tetramers (35%) was observed, while at 100\u00b0C, most seeds had 4\u20136 islands.\n",
+            "answer": "D",
+            "predicted_choice": "A"
+        },
+        {
+            "id": "identify_0",
+            "question": "Question: In an experiment involving the colloidal growth of Au\u2013Ag Nanoparticles with ligand incubation and Ag reduction, 70 nm citrate-stabilized Au nanoparticles were used as seeds. The ligand 2-mercaptobenzoimidazole-5-carboxylic acid (MBIA) and the reductant Hydroquinone (HQ) were introduced, with the process conducted at an incubation temperature range of 60\u2013100\u00b0C. If the concentration of HQ was varied, which of the following observations would be consistent with the results of the experiment?\n\nGiven options:\nA. A monotonous increase in the number of Ag islands per seed with decreasing HQ concentration, and an increase in average valency from 3.6 to 2.5, 1.9, and finally 1 with HQ concentration decrement.\nB. A decrease in the number of Ag islands per seed with increasing HQ concentration, and a decrease in average valency.\nC. A monotonous increase in the number of Ag islands per seed with increasing HQ concentration, and an increase in average valency from 1 to 1.9, 2.5, and 3.6 with HQ concentration increment.\nD. No change in the number of Ag islands per seed regardless of the HQ concentration, but a decrease in average valency.\n",
+            "answer": "C",
+            "predicted_choice": "A"
+        }
+    ],
+    "score_process": [
+        1.0,
+        1.0,
+        0.6666666666666666,
+        0.5,
+        0.6,
+        0.5,
+        0.42857142857142855,
+        0.5,
+        0.4444444444444444,
+        0.5,
+        0.5454545454545454,
+        0.5,
+        0.5384615384615384,
+        0.5714285714285714,
+        0.6,
+        0.625,
+        0.6470588235294118,
+        0.6666666666666666,
+        0.6842105263157895,
+        0.7,
+        0.6666666666666666,
+        0.6818181818181818,
+        0.6956521739130435,
+        0.6666666666666666,
+        0.68,
+        0.6923076923076923,
+        0.7037037037037037,
+        0.7142857142857143,
+        0.6896551724137931,
+        0.6666666666666666,
+        0.6774193548387096,
+        0.6875,
+        0.696969696969697,
+        0.7058823529411765,
+        0.7142857142857143,
+        0.7222222222222222,
+        0.7297297297297297,
+        0.7368421052631579,
+        0.717948717948718,
+        0.725,
+        0.7073170731707317,
+        0.6904761904761905,
+        0.6744186046511628,
+        0.6818181818181818,
+        0.6666666666666666,
+        0.6521739130434783,
+        0.6595744680851063,
+        0.6458333333333334,
+        0.6326530612244898,
+        0.62,
+        0.6274509803921569,
+        0.6153846153846154,
+        0.6226415094339622,
+        0.6296296296296297,
+        0.6363636363636364,
+        0.6428571428571429,
+        0.6491228070175439,
+        0.6551724137931034,
+        0.6610169491525424,
+        0.6666666666666666,
+        0.6721311475409836,
+        0.6774193548387096,
+        0.6666666666666666,
+        0.65625,
+        0.6461538461538462,
+        0.6515151515151515,
+        0.6567164179104478,
+        0.6470588235294118,
+        0.6521739130434783,
+        0.6428571428571429,
+        0.6338028169014085,
+        0.625,
+        0.6301369863013698,
+        0.6351351351351351,
+        0.6266666666666667,
+        0.618421052631579,
+        0.6103896103896104,
+        0.6153846153846154,
+        0.6075949367088608,
+        0.6,
+        0.5925925925925926,
+        0.5975609756097561,
+        0.5903614457831325,
+        0.5952380952380952,
+        0.5882352941176471,
+        0.5813953488372093,
+        0.5862068965517241,
+        0.5795454545454546,
+        0.5842696629213483,
+        0.5888888888888889,
+        0.5934065934065934,
+        0.5978260869565217,
+        0.6021505376344086
+    ],
+    "total_QAs": 775,
+    "current_QAs": 93
+}

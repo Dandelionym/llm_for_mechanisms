@@ -8,7 +8,7 @@ With the rapid development of artificial intelligence (AI), large language model
 
 
 <div align="center">
-  <img src="img.png" alt="Image-1" width="800"/>
+  <img src="assets/img.png" alt="Image-1" width="800"/>
 </div>
 
 **Figure 1: Semantic illustration of our proposed framework for large language model evaluation in nanomaterial synthesis prediction, highlighting concepts and workflow.** a) nanosynthesis study loop: begins with basic conditions, leading to the discovery of novel synthesis rules through experiments involving variable adjustments. b) exemplifies the synthesis mechanism, dissected into causality and correlations, with an emphasis on correlations described through condition-observation pairs. c) outlines the process from sourcing relevant literature (using key area keywords) for benchmark construction and model evaluation.
@@ -20,7 +20,7 @@ We manually created the dataset for evaluation. It is in the format of FastChat 
 
 
 <div align="center">
-  <img src="img_1.png" alt="Image-2" width="800"/>
+  <img src="assets/img_1.png" alt="Image-2" width="800"/>
 </div>
 
 **Figure 2: Evaluation data set illustration.**  a) shows the distribution of collected evaluation sets containing 775 questions categorized by synthesis methods and structures, respectively. b) displays a jittered scatter plot of manually curated research papers with the counts of mechanism, conditions and observations, with mechanism relevance from low to high, indicated by varying colors to represent the frequency of observations and varying sizes to represent the biasing towards mechanism. c) showcases the multiple selection question considered in the evaluation. The model is instructed to give the correct option. d) illustration of the probing test in our evaluation study based on the proposed c-score.
